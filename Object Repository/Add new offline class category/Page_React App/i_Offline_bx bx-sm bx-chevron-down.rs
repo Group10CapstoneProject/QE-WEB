@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Offline_bx bx-sm bx-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>f898e2c5-9221-4b36-bef5-16b364b4532c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div[4]/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>52ba7e5b-fafc-47cd-8b1b-d3a51512e356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-sm bx-chevron-down </value>
+      <webElementGuid>e5d98f88-b27d-42f5-98cc-7a6daa2af3ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end  font-semibold text-md&quot;]/label[@class=&quot;bg-transparent text-prim  w-full  justify-between  btn  font-semibold  hover:bg-primary  border-none&quot;]/i[@class=&quot;bx bx-sm bx-chevron-down&quot;]</value>
+      <webElementGuid>fc99de64-aeac-449c-b690-23d04694d325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/ul/div[4]/label/i</value>
+      <webElementGuid>3a20f8ac-7d2d-4a65-8c34-427c03624389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/i</value>
+      <webElementGuid>838e15c0-b409-4a57-b229-a82467aa0fd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Detail_bx bx-sm rounded-lg bg-dang p-1 te_5cf22b</name>
+   <tag></tag>
+   <elementGuidId>0a2f02fa-c35a-4fe3-9cac-02c3578fb4cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div[6]/div/div[3]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9ba18450-2c51-450d-a9f8-1228f6c086bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-sm rounded-lg bg-dang p-1 text-white bx-trash</value>
+      <webElementGuid>3195c49d-9ea0-4c10-a7a8-a17e5fcb90a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[2]/div[@class=&quot;form-control&quot;]/div[@class=&quot;grid mt-5 gap-x-3 gap-y-5 grid-cols-3&quot;]/div[@class=&quot;card w-[320px] border-prim h-[300px] bg-base-100 shadow-xl&quot;]/div[@class=&quot;px-2 py-2&quot;]/div[@class=&quot;w-full flex mt-2 gap-x-2 items-center justify-between&quot;]/button[@class=&quot;rounded-lg active:scale-95 text-center cursor-pointer transition-all duration-100 ease-linear leading-none&quot;]/i[@class=&quot;bx bx-sm rounded-lg bg-dang p-1 text-white bx-trash&quot;]</value>
+      <webElementGuid>c1148066-37b4-42fe-87cf-90c59912a02e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div[6]/div/div[3]/button[2]/i</value>
+      <webElementGuid>4293d74a-da5d-488d-943e-91639e71ab86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[3]/button[2]/i</value>
+      <webElementGuid>68016b81-3277-42f6-a8e8-96c2b92c75ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

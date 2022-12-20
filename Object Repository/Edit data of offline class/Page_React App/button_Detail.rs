@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Detail</name>
+   <tag></tag>
+   <elementGuidId>e9db22a6-04da-4f40-a1a0-d6f707f2220c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div[3]/div/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fda8afb3-dfbb-467f-8ed3-f21c28a002c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-3 w-[90%] rounded-lg font-semibold active:scale-95 text-center cursor-pointer transition-all duration-100 ease-linear leading-none text-white btn-primary </value>
+      <webElementGuid>a79eae60-15a8-489b-b6b0-e336ed973877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>d042c3cb-ad0f-4767-bccd-254b9bc7bec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[2]/div[@class=&quot;form-control&quot;]/div[@class=&quot;grid mt-5 gap-x-3 gap-y-5 grid-cols-3&quot;]/div[@class=&quot;card w-[320px] border-prim h-[300px] bg-base-100 shadow-xl&quot;]/div[@class=&quot;px-2 py-2&quot;]/div[@class=&quot;w-full flex mt-2 gap-x-2 items-center justify-between&quot;]/button[@class=&quot;py-3 w-[90%] rounded-lg font-semibold active:scale-95 text-center cursor-pointer transition-all duration-100 ease-linear leading-none text-white btn-primary&quot;]</value>
+      <webElementGuid>4ff0be7e-14e0-4c4c-819f-c0193c3103b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div[3]/div/div[3]/button</value>
+      <webElementGuid>f59a10ea-916c-4d34-9bd8-09abad3e71ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 500.000'])[2]/following::button[1]</value>
+      <webElementGuid>57cf9ee5-3798-43fa-bb28-ae194278c1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba Internasional Class'])[2]/following::button[1]</value>
+      <webElementGuid>f3380531-97b4-4a7f-95bd-b27606ebe4e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba Class'])[1]/preceding::button[2]</value>
+      <webElementGuid>3f3d8f2f-0ddc-4ced-b541-ce0dfb3f8603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 500.000'])[3]/preceding::button[2]</value>
+      <webElementGuid>2c139ad2-32f1-4889-8e9c-7087ddd9dc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/button</value>
+      <webElementGuid>9b9fdc0e-397b-4606-9aa0-4961519023cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>683278d3-ed57-4311-9574-80ca58354c3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

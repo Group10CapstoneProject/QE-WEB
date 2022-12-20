@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tambah Kategori</name>
+   <tag></tag>
+   <elementGuidId>1c268c13-9905-4685-af88-bbb97f384a8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8d82670e-4c79-4054-9db6-04fac0a58dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>my-modal-5</value>
+      <webElementGuid>0f3cbb93-7d67-4661-b7d5-eca1c57fadf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn border-prim bg-prim hover:bg-accent text-white transition duration-200 ease-in hover:border-base</value>
+      <webElementGuid>ede7b63e-90be-4744-b30b-d3f7f1076f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Kategori</value>
+      <webElementGuid>b10596a9-b036-461c-bb2c-af79e9680ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[2]/div[@class=&quot;form-control&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex justify-end&quot;]/label[@class=&quot;btn border-prim bg-prim hover:bg-accent text-white transition duration-200 ease-in hover:border-base&quot;]</value>
+      <webElementGuid>175287fc-215d-4953-b76b-e1d1975a7b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6f7937b2-d8ef-42d7-90d9-a2b809018919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>my-modal-5</value>
+      <webElementGuid>fea384c0-47ea-40c7-9d55-30f41d248cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn border-prim bg-prim hover:bg-accent text-white transition duration-200 ease-in hover:border-base</value>
+      <webElementGuid>bd9f415a-569c-4915-8059-3a60c3b1c5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Kategori</value>
+      <webElementGuid>3e6b2567-6e59-4b84-b9fc-56b9785ade94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[2]/div[@class=&quot;form-control&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex justify-end&quot;]/label[@class=&quot;btn border-prim bg-prim hover:bg-accent text-white transition duration-200 ease-in hover:border-base&quot;]</value>
+      <webElementGuid>1add6a94-eb95-4256-ad4f-dc506c241d97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div[2]/div/label</value>
+      <webElementGuid>2c93b4d9-ec50-4a11-a942-6c8c09b926c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Kelas Offline'])[1]/following::label[1]</value>
+      <webElementGuid>34648355-cdfc-442d-93d3-2ca5329772f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::label[1]</value>
+      <webElementGuid>0be35f9b-341a-4694-a744-63509d5c1b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba'])[1]/preceding::label[1]</value>
+      <webElementGuid>9fe8cb4d-2daa-4e3a-bc9b-d0adf438f9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/preceding::label[1]</value>
+      <webElementGuid>784e66f4-292e-475b-9d61-65bb61d17b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Kategori']/parent::*</value>
+      <webElementGuid>a93f8524-6fdd-4b9e-be1f-50c4aaf5c61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>6647bf16-46a4-4269-be45-b0dbac59957f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Tambah Kategori' or . = ' Tambah Kategori')]</value>
+      <webElementGuid>732ec2cc-01c9-4ba9-9dd0-6a20cf089cb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
