@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kategoripilih kategoriZumbaMuay Thai te_f2d851</name>
+   <tag></tag>
+   <elementGuidId>6ffe6d9c-93c8-4452-9324-4ca71b231f7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e16561b-855e-418a-a187-58f7ee0249b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-x-5 w-full justify-between</value>
+      <webElementGuid>a7a5db4c-7ec1-441b-85c2-44eb5f47c446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategoripilih kategoriZumbaMuay Thai testMuay Thai 38Muay Thai240Muay Thai 240Muay Thai464Muay Thai 464Muay ThaiMuay Thai286Muay Thai 286Muay Thai31Muay Thai 31Muay Thai207Muay Thai 207Muay Thai 4Muay Thai 229CobaZumba test 2Muay Thai 82Zumbaa niMuay Thai480Pilates 480Muay Thai60Muay Thai2Muay Thai302Muay Thai415Muay Thai462Muay Thai179Zumba gymZumbaa</value>
+      <webElementGuid>f1651371-10bc-40cc-9a31-00d4871e4fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/form[1]/div[@class=&quot;flex flex-col gap-y-3&quot;]/div[@class=&quot;flex gap-x-5 w-full justify-between&quot;]</value>
+      <webElementGuid>22f5745e-199c-428c-a162-a6295147ab89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/div[3]</value>
+      <webElementGuid>8469012c-aaf8-471d-a8d7-5fa256f4cb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi'])[1]/following::div[1]</value>
+      <webElementGuid>1b5b8c61-c159-48f7-8e88-07ed74a365e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga'])[1]/following::div[2]</value>
+      <webElementGuid>e0a903ce-d3bd-4a6c-b48d-e45d281ce985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/preceding::div[2]</value>
+      <webElementGuid>05d34fa0-99f1-480b-b6b5-21f5a2710811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>8cf98d17-d064-46ed-8827-ef50cbb6c7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kategoripilih kategoriZumbaMuay Thai testMuay Thai 38Muay Thai240Muay Thai 240Muay Thai464Muay Thai 464Muay ThaiMuay Thai286Muay Thai 286Muay Thai31Muay Thai 31Muay Thai207Muay Thai 207Muay Thai 4Muay Thai 229CobaZumba test 2Muay Thai 82Zumbaa niMuay Thai480Pilates 480Muay Thai60Muay Thai2Muay Thai302Muay Thai415Muay Thai462Muay Thai179Zumba gymZumbaa' or . = 'Kategoripilih kategoriZumbaMuay Thai testMuay Thai 38Muay Thai240Muay Thai 240Muay Thai464Muay Thai 464Muay ThaiMuay Thai286Muay Thai 286Muay Thai31Muay Thai 31Muay Thai207Muay Thai 207Muay Thai 4Muay Thai 229CobaZumba test 2Muay Thai 82Zumbaa niMuay Thai480Pilates 480Muay Thai60Muay Thai2Muay Thai302Muay Thai415Muay Thai462Muay Thai179Zumba gymZumbaa')]</value>
+      <webElementGuid>2e7b03b0-8297-45bb-8e38-7643128652a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
