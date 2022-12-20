@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Password_input input-bordered w-full</name>
    <tag></tag>
-   <elementGuidId>4b9aa9ac-6c25-44cd-9716-9e04092acde1</elementGuidId>
+   <elementGuidId>d550cc97-0b7f-4bce-bb4e-217b05af0b6c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@type='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>76404afd-307b-46d6-87e6-9c9ae4eccb8f</webElementGuid>
+      <webElementGuid>825f6a56-2870-456f-8c11-9ff872bb4ad5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>75c0b767-dcc3-46e8-af8c-79d1bc0ab2ee</webElementGuid>
+      <webElementGuid>cb1eb31c-a2c6-4778-9e3e-430c287b1656</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>******</value>
-      <webElementGuid>6df62788-7ae5-4570-8329-a5a2e738a3ec</webElementGuid>
+      <webElementGuid>4a15009c-fb23-408e-9291-40429b37ce42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input input-bordered w-full</value>
-      <webElementGuid>3e71e85f-1d8e-49e4-9a76-301b24913ef0</webElementGuid>
+      <webElementGuid>50608b69-3fb4-4a34-8d79-3c799cef57f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/input[@class=&quot;input input-bordered w-full&quot;]</value>
-      <webElementGuid>e0a35ece-928d-450b-8f7b-fddc2e66fa7e</webElementGuid>
+      <webElementGuid>0cc5f361-8ce3-43f0-884b-cb6a50d1f307</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='password']</value>
-      <webElementGuid>c7b0448d-f244-4335-9d77-dedb53144717</webElementGuid>
+      <webElementGuid>94bf324a-84b4-439e-9589-0c85a277ca40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/input[2]</value>
-      <webElementGuid>25c729fa-0833-425b-a7d4-79aa64fe1d3e</webElementGuid>
+      <webElementGuid>ff6c61d3-01f3-47a6-95dd-a90d0e4f4fbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>fdc56acb-ee0d-4ac7-a31f-c1157596349d</webElementGuid>
+      <webElementGuid>7c0afc01-ac3b-4b45-bc8f-155d9f837aaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = '******']</value>
-      <webElementGuid>036b000d-ea62-4dbc-8646-e6ee10507d8d</webElementGuid>
+      <webElementGuid>fd71f06e-bdbd-468c-986e-681a40589a32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

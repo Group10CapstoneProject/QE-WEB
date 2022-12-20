@@ -51,17 +51,17 @@ class Login {
 		
 		for (int i = 1; i <= x; i++) {
 			WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/login')
-			WebUI.setText(findTestObject('Object Repository/Page_React App/input_Email_input input-bordered w-full'), findTestData(
+			WebUI.setText(findTestObject('Object Repository/login/input_Email_input input-bordered w-full'), findTestData(
 				'Login').getValue(1, i))
 	
-		WebUI.setText(findTestObject('Object Repository/Page_React App/input_Password_input input-bordered w-full'), findTestData(
+		WebUI.setText(findTestObject('Object Repository/login/input_Password_input input-bordered w-full'), findTestData(
 				'Login').getValue(2, i))
 	
 		if (i==9) {
-			WebUI.click(findTestObject('Object Repository/Page_React App/input'))
+			WebUI.click(findTestObject('Object Repository/login/input'))
 		}
 	
-		WebUI.click(findTestObject('Object Repository/Page_React App/button_MASUK'))
+		WebUI.click(findTestObject('Object Repository/login/button_MASUK'))
 	}
 	}
 
@@ -75,7 +75,7 @@ class Login {
 
 	@And ("I check the remember me")
 	def I_check_the_remember_me() {
-		WebUI.verifyElementPresent(findTestObject('Object Repository/Page_React App/img_hola_w-32'), 0)
+		WebUI.verifyElementPresent(findTestObject('Object Repository/login/img_hola_w-32'), 0)
 	}
 
 	@Then("I can login")

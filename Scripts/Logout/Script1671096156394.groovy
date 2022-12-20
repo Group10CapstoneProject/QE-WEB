@@ -28,15 +28,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Logout/Page_React App/i
 
 WebUI.click(findTestObject('Object Repository/Logout/Page_React App/button_MASUK'))
 
-not_run: WebUI.rightClick(findTestObject('Object Repository/Logout/Page_React App/b_superadmin'))
-
-not_run: WebUI.click(findTestObject('Object Repository/Logout/Page_React App/b_superadmin'))
-
-WebUI.click(findTestObject('Object Repository/Logout/Page_React App/b_superadmin'))
-
-not_run: WebUI.rightClick(findTestObject('Object Repository/Logout/Page_React App/b_superadmin'))
-
 WebUI.click(findTestObject('Object Repository/Logout/Page_React App/b_superadmin'))
 
 WebUI.click(findTestObject('Object Repository/Logout/Page_React App/button_logout'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Logout/Page_React App/h4_Masuk Admin'), 'Masuk Admin')
+
+WebUI.closeBrowser()
 
