@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Plih TraineragilJunaWahyu</name>
+   <tag></tag>
+   <elementGuidId>54199b2b-399e-4ba0-983f-a47d1259cfc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='trainer_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;trainer_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>998d9f6d-04d5-47a8-9fd7-d092d7d601a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>trainer_id</value>
+      <webElementGuid>2b0cb379-8212-4f88-a220-5df504aeeeb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-sm border w-full max-w-xs</value>
+      <webElementGuid>5868b905-994b-4907-8048-058fb09781d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plih TraineragilJunaWahyu</value>
+      <webElementGuid>0762f522-3c20-4ef6-9804-d298a44b7b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/form[1]/div[@class=&quot;flex flex-col gap-y-3&quot;]/div[@class=&quot;flex gap-x-5 w-full justify-between&quot;]/div[@class=&quot;flex flex-col w-1/2 gap-y-2&quot;]/select[@class=&quot;select-sm border w-full max-w-xs&quot;]</value>
+      <webElementGuid>b7de10d8-0cd7-4d52-b70e-e200ba28cb52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='trainer_id']</value>
+      <webElementGuid>8545649c-d863-44cc-92fb-fb3b30c6db30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/select</value>
+      <webElementGuid>995b4ed6-1c18-4479-84d7-4e35f7e71b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pelatih'])[1]/following::select[1]</value>
+      <webElementGuid>a1b554e9-7999-4978-9c46-5d04c9446f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kelas'])[1]/following::select[1]</value>
+      <webElementGuid>d0c2a79c-2c59-430c-a726-c8a23307c2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slot'])[1]/preceding::select[1]</value>
+      <webElementGuid>0ec63f45-ba88-4072-b635-1fb9c22d94e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Durasi'])[1]/preceding::select[1]</value>
+      <webElementGuid>92b11776-1769-4a18-ac89-1933d92e27c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>79e5298d-74d2-47a7-a2eb-a0a85261af85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'trainer_id' and (text() = 'Plih TraineragilJunaWahyu' or . = 'Plih TraineragilJunaWahyu')]</value>
+      <webElementGuid>ef20e400-79ea-416f-ab92-c1f2fa1eda2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

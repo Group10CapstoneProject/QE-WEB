@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih kategoriZumbaaZumba gymMuay Th_d3cc09</name>
+   <tag></tag>
+   <elementGuidId>b9ada781-260e-41d0-84d3-ad84920bf2c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='offline_class_category_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;offline_class_category_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bf0ca5cf-bc21-43b7-bbb0-15a12240d5dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-primary select-sm w-full max-w-xs</value>
+      <webElementGuid>66a983c0-a930-443b-bf08-80430336a1d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>offline_class_category_id</value>
+      <webElementGuid>0dfaad5f-2ef4-4d36-baee-00705a2d9e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih kategoriZumbaaZumba gymMuay Thai2Muay Thai60Zumbaa niZumba test 2Muay Thai286Muay ThaiMuay Thai 38Muay Thai testZumba</value>
+      <webElementGuid>068c4d9b-b5cd-42d3-b50e-fce25d75c9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/form[1]/div[@class=&quot;flex flex-col gap-y-3&quot;]/div[@class=&quot;flex gap-x-5 w-full justify-between&quot;]/div[@class=&quot;flex flex-col w-1/2 gap-y-2&quot;]/select[@class=&quot;select select-primary select-sm w-full max-w-xs&quot;]</value>
+      <webElementGuid>3ce0259d-e900-4b32-95f6-d3fdbeff3459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='offline_class_category_id']</value>
+      <webElementGuid>463b712a-ad85-40e9-a6af-37f798a33e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/div[3]/div/select</value>
+      <webElementGuid>57cbbe4c-ee69-4ec9-b67f-0ce4ddfe9dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::select[1]</value>
+      <webElementGuid>3864b7c6-fc32-4a2c-9ee4-e9e23e542769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi'])[1]/following::select[1]</value>
+      <webElementGuid>e609e6ea-9570-4fb8-9c3c-de64f5292464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/preceding::select[1]</value>
+      <webElementGuid>774e0b12-01d5-4132-879b-8cabffd76d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/preceding::select[1]</value>
+      <webElementGuid>6a392d19-0fb6-4843-b122-82c70a1fd520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>ae2081ac-3121-4aab-ac48-cabc21bf18f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'offline_class_category_id' and (text() = 'Pilih kategoriZumbaaZumba gymMuay Thai2Muay Thai60Zumbaa niZumba test 2Muay Thai286Muay ThaiMuay Thai 38Muay Thai testZumba' or . = 'Pilih kategoriZumbaaZumba gymMuay Thai2Muay Thai60Zumbaa niZumba test 2Muay Thai286Muay ThaiMuay Thai 38Muay Thai testZumba')]</value>
+      <webElementGuid>f05edcdb-046c-4817-97d7-8e1726151662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

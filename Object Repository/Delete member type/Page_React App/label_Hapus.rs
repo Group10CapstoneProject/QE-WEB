@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Hapus</name>
+   <tag></tag>
+   <elementGuidId>fcd7215f-fa73-4202-b217-7580d5312a42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div/div/div[2]/div[2]/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>14b9e7de-9da6-4636-aabc-64cc6d532e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnd w-full text-center  </value>
+      <webElementGuid>589dc1f5-b19d-4f6b-ba5f-b2b2fbd790d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>656610bb-eb5f-4e70-9cac-6d42c972628a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[1]/div[@class=&quot;bg-white my-2 p-2&quot;]/div[@class=&quot;grid grid-cols-3 gap-4&quot;]/div[@class=&quot;w-[300px] border overflow-hidden shadow-xl rounded-xl h-[400px] bg-white&quot;]/div[@class=&quot;flex  justify-between flex-col h-full p-3 items-center&quot;]/div[@class=&quot;flex flex-col w-full  gap-y-2 pb-3 justify-end&quot;]/label[@class=&quot;btnd w-full text-center&quot;]</value>
+      <webElementGuid>0184a074-820a-4912-8a92-e499c4b56305</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div/div/div[2]/div[2]/label[2]</value>
+      <webElementGuid>bfaa09be-8190-466b-8cf2-0ccb219b9bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::label[1]</value>
+      <webElementGuid>2af0bede-39c7-4c7c-b2cd-1d5550c12b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 50.000/Bulan'])[1]/following::label[2]</value>
+      <webElementGuid>418ca20a-2dba-4318-ab46-a310598be541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platinum'])[1]/preceding::label[1]</value>
+      <webElementGuid>0b137dd7-54fa-4f52-86ac-78fd47f04f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 500.000/Bulan'])[1]/preceding::label[1]</value>
+      <webElementGuid>32466a8b-5496-456c-bbfc-0eba3f2d0fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>aeaebe77-ed76-4859-924d-d2e202b986ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>9f93d77d-81c8-4689-92dc-195dd1f36c90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
