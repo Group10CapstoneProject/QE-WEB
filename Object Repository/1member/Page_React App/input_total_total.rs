@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>be07781f-e433-4f55-9c23-0600cf3d269f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full input-sm border border-primary  block py-1 my-1 rounded-none input-primary</value>
+      <webElementGuid>0975f5de-7e05-498a-8dc0-bffe74d5ca61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>total</value>
+      <webElementGuid>2f84f106-10fe-4f8f-b06d-fd641ad75fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>9a7c18f4-90e1-480e-8caa-302648cc7f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box  p-0 overflow-hidden w-1/2 max-w-5xl&quot;]/form[1]/div[@class=&quot;p-3&quot;]/div[@class=&quot;flex w-full px-2&quot;]/div[@class=&quot;w-full&quot;]/input[@class=&quot;w-full input-sm border border-primary  block py-1 my-1 rounded-none input-primary&quot;]</value>
+      <webElementGuid>05a87b70-b47a-45d2-b604-47e92e6920cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
       <webElementGuid>95ca4665-a2a6-4309-b5f2-e37fb33bf42d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +73,7 @@
       <webElementGuid>8110d2ee-6582-4513-b003-9d3b1c2d8da5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>6138ccb3-70d6-4082-9114-99342d16ad97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='total']</value>
-      <webElementGuid>486ada46-171c-4500-b782-ecc64797498a</webElementGuid>
+      <webElementGuid>2c74bdff-a02a-4e21-b347-d973a535de55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[2]/div/form/div/div/div[2]/input[3]</value>
-      <webElementGuid>cc3bd0a0-03d9-47cb-bcfc-79051647430a</webElementGuid>
+      <webElementGuid>cb4e12cb-c020-4602-8f84-06a2db01d03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[3]</value>
+      <webElementGuid>1b3b3326-0da0-4b31-9c66-5d9e7efb84a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'total' and @type = 'number']</value>
+      <webElementGuid>ade66990-d9f9-4916-8710-aa4eb103f47b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,21 +239,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::input[1]</value>
       <webElementGuid>1c6acd8f-1bb7-4fec-a81d-74e477b191c5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input[3]</value>
-      <webElementGuid>3af78f26-f414-465a-9e88-2702b47dbbc9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@name = 'total' and @type = 'number']</value>
-      <webElementGuid>17197150-5565-4747-b50d-161a30e980cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

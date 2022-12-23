@@ -21,18 +21,18 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/login')
 
-WebUI.setText(findTestObject('Object Repository/Logout/Page_React App/input_Email_input input-bordered w-full'), 'superadmin@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Logout/Page_AltaGym/input_Email_input input-bordered w-full'), 'superadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Logout/Page_React App/input_Password_input input-bordered w-full'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Logout/Page_AltaGym/input_Password_input input-bordered w-full'), 
     'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Logout/Page_React App/button_MASUK'))
+WebUI.click(findTestObject('Object Repository/Logout/Page_AltaGym/button_MASUK'))
 
-WebUI.click(findTestObject('Object Repository/Logout/Page_React App/b_superadmin'))
+WebUI.click(findTestObject('Object Repository/Logout/Page_AltaGym/b_superadmin'))
 
-WebUI.click(findTestObject('Object Repository/Logout/Page_React App/button_logout'))
+WebUI.click(findTestObject('Object Repository/Logout/Page_AltaGym/button_logout'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Logout/Page_React App/h4_Masuk Admin'), 'Masuk Admin')
+WebUI.verifyElementText(findTestObject('Object Repository/Logout/Page_AltaGym/h4_Masuk Admin'), 'Masuk Admin')
 
 WebUI.closeBrowser()
 

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c07257d0-32ed-453d-8ad3-3c4bfe517719</webElementGuid>
+      <webElementGuid>cdd7b762-e93a-4b9d-8e23-46912784a788</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,50 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>c1866ab1-98ba-4bf5-a51c-57c7304095e5</webElementGuid>
+      <webElementGuid>355fbc5e-6f42-49ce-91c6-dad4b17550d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>alta@gmail.com</value>
+      <webElementGuid>160aec1d-6f3f-4110-880c-441c892e20c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input input-bordered w-full</value>
+      <webElementGuid>1ede2945-2890-4451-9b80-51e42edc79de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/input[@class=&quot;input input-bordered w-full&quot;]</value>
+      <webElementGuid>809fb09d-0ff7-4c9d-933c-68e2aa3df04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c07257d0-32ed-453d-8ad3-3c4bfe517719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>c1866ab1-98ba-4bf5-a51c-57c7304095e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -382,7 +422,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='email']</value>
-      <webElementGuid>ae919c87-4e85-4293-a02d-06619ebe7cd7</webElementGuid>
+      <webElementGuid>2dedcf9d-a727-4c95-8d9f-beb728f1de79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -390,7 +430,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/input</value>
-      <webElementGuid>77b0ab70-27ad-4ebf-adc4-fe9693f1cbba</webElementGuid>
+      <webElementGuid>094a87d8-6bc5-4dbe-bda6-e935c580f4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>13e4707d-15f5-48e1-91d1-85d8237237cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @placeholder = 'alta@gmail.com']</value>
+      <webElementGuid>dd7d1ff4-d9e3-48f3-b0c6-4b1849a8bc7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -423,21 +479,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat saya'])[1]/preceding::input[3]</value>
       <webElementGuid>31212744-fdb0-4e3c-ac04-c8b99007030f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>85bce5a4-846b-40c1-8eca-b1eb4ae35d47</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'email' and @placeholder = 'alta@gmail.com']</value>
-      <webElementGuid>70037f22-5114-4dd9-ac84-ccb33c7f6f58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

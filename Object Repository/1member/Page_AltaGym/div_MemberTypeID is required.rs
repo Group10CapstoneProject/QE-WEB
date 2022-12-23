@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MemberTypeID is required</name>
+   <tag></tag>
+   <elementGuidId>632d8087-62e6-4c88-a3dd-57160022d9e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dda85483-23d4-4cf7-9972-980a1c0c57f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>9282bcce-0b1c-4bc9-95c1-58eb1877a789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>cb5e20a4-4b4b-4d2c-8d5c-4f35069d0cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>go3958317564</value>
+      <webElementGuid>0741a565-1e5d-458c-bfa9-576f47892b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MemberTypeID is required</value>
+      <webElementGuid>2791f64e-2434-4a3e-8059-1ceb551e6ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[3]/div[@class=&quot;go4109123758&quot;]/div[@class=&quot;go2072408551&quot;]/div[@class=&quot;go3958317564&quot;]</value>
+      <webElementGuid>9852559f-4e48-4356-b902-2379bad1aaca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[2]</value>
+      <webElementGuid>b78f24fc-e63a-4608-9b38-4cf5887f8fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::div[8]</value>
+      <webElementGuid>44c29ce6-f928-405c-8663-593785ef67fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/following::div[8]</value>
+      <webElementGuid>b0497d80-59c9-4574-a7a4-a16fef2236e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Member'])[1]/preceding::div[1]</value>
+      <webElementGuid>70406cf4-bd5f-4cc9-bce7-31283ee86003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah member'])[1]/preceding::div[2]</value>
+      <webElementGuid>1d923a8c-e5a1-4da8-bff5-8af720ef7b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>c34b80cb-b7a3-45e5-a358-06462a9abe6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MemberTypeID is required' or . = 'MemberTypeID is required')]</value>
+      <webElementGuid>71e88333-9965-4fa0-9ea0-a06396b8ef10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

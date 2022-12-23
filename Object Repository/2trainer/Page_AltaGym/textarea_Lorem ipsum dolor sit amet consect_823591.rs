@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Lorem ipsum dolor sit amet consect_823591</name>
+   <tag></tag>
+   <elementGuidId>38bdeda3-a10e-450d-ab97-a3ca9b86e443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;description&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>a7a85e36-8164-44ff-bdca-a30238303638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputJenis w-full</value>
+      <webElementGuid>74a971f2-2df4-4762-8e60-2a4859b0b512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a748e9db-5da4-40eb-bd03-45b6b58f8eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>e9126815-4ecf-413d-8dc1-fdd6b6da015c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lorem ipsum dolor sit amet consectetur               adipisicing elit. okdeserunt ipsum velit quod impedit?</value>
+      <webElementGuid>84c1d8f5-11e5-4b04-be7f-ce65c7fc09b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box   p-0 overflow-hidden w-1/2 max-w-5xl&quot;]/form[1]/div[@class=&quot;p-3&quot;]/div[@class=&quot;flex w-full px-2 gap-x-2&quot;]/div[@class=&quot;w-[75%]&quot;]/textarea[@class=&quot;inputJenis w-full&quot;]</value>
+      <webElementGuid>e6e6b479-cd0e-481c-9a9c-1c0b9f994691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='description']</value>
+      <webElementGuid>ee5f8eb0-7e0f-4c51-a2a9-8b8d45d3c506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/form/div/div/div[2]/textarea</value>
+      <webElementGuid>9fc14478-471a-47e8-8ee8-f046f144cb8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::textarea[1]</value>
+      <webElementGuid>c3f3bc33-a295-4c41-94b6-3b4b32e50767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/following::textarea[1]</value>
+      <webElementGuid>4cf3e992-5ce7-4f6a-8869-32626c80537b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='simpan'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>93c05657-e032-427e-a4e3-e5a9e20b4874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>c85ca0c7-4afc-4d0e-9ba6-7b507c98f29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>bf725574-e259-460c-aea4-acba7cda8a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@type = 'text' and @name = 'description' and (text() = 'Lorem ipsum dolor sit amet consectetur               adipisicing elit. okdeserunt ipsum velit quod impedit?' or . = 'Lorem ipsum dolor sit amet consectetur               adipisicing elit. okdeserunt ipsum velit quod impedit?')]</value>
+      <webElementGuid>20b8efb7-547d-4260-9060-f016b43b8744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

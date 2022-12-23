@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Menunggu KonfirmasiREJECTINACTIVEACTIVE</name>
+   <tag></tag>
+   <elementGuidId>f3c53715-3de2-4406-aee0-528baa311ca4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;status&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='status']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e86b1f3e-9227-44cd-a3fe-4db3a85de3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-bordered select-sm w-full max-w-xs</value>
+      <webElementGuid>7b2aa928-1b4e-474f-b563-3d19aea7c58e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>b535a973-d65b-4de6-abfd-5ca2dc584e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menunggu KonfirmasiREJECTINACTIVEACTIVE</value>
+      <webElementGuid>8e5c0fb3-40c3-4a70-914c-7598107a12df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/form[@class=&quot;flex flex-col  px-6  w-full&quot;]/div[@class=&quot;flex gap-x-10 py-5 w-full&quot;]/select[@class=&quot;select select-bordered select-sm w-full max-w-xs&quot;]</value>
+      <webElementGuid>0248db67-6737-4371-bf46-9d2c3a59b082</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='status']</value>
+      <webElementGuid>7256f76d-c3d8-4077-9a9e-20513ec85f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div[2]/select</value>
+      <webElementGuid>35eadd82-1016-4fb3-a142-08831bdb5c44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Membership'])[1]/following::select[1]</value>
+      <webElementGuid>903d5818-a2e5-4fa8-8a3b-c148f7e384ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukti pembayaran'])[1]/following::select[1]</value>
+      <webElementGuid>0798f8f0-2731-48ee-9ccb-30f81d7f5200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::select[1]</value>
+      <webElementGuid>3d6ec1de-cdf0-446d-9826-f21faa4947f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::select[1]</value>
+      <webElementGuid>3f61ce9a-818e-43e0-afa4-3e92955065e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>994d7d07-7ca0-4a6c-a065-0d7c3c11e86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'status' and (text() = 'Menunggu KonfirmasiREJECTINACTIVEACTIVE' or . = 'Menunggu KonfirmasiREJECTINACTIVEACTIVE')]</value>
+      <webElementGuid>50bea3c9-92a8-4fcc-89ee-c899991d79c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

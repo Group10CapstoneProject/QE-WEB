@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kelola Member</name>
+   <tag></tag>
+   <elementGuidId>73bbad6f-8f41-4282-b368-9db08c04ae1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e72630d6-f0ce-4bcc-9b38-72272781d8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/anggota</value>
+      <webElementGuid>95097d20-e924-45ee-ad9b-88b83d62fbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Member</value>
+      <webElementGuid>64fd9f0e-cf27-42b0-8640-319b1657bcea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>dbc44e38-09ff-41c1-b90b-0f5c529a8b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a1e7109-c2bf-4a98-b1ba-d116710e96aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/anggota</value>
+      <webElementGuid>706f78df-fdaa-44f6-8e81-71e9f29b584d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Member</value>
+      <webElementGuid>09f72856-2a97-4b23-913e-14b903c5dd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>68687027-cc1c-4d4e-ad0c-c806e479589a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d122fd0-a375-44bf-a1a1-d37c03bc1ce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/anggota</value>
+      <webElementGuid>a68f9010-e7ae-4f3b-9d6f-20a9de6c2564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Member</value>
+      <webElementGuid>5b80174e-e66d-4661-9abc-3f6cb40487c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>c0a1d3a7-3b73-428d-9e3d-1f129ccd7c15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/ul/div[2]/ul/li/a</value>
+      <webElementGuid>2e90d90c-910a-44ca-96c6-5bddd838c513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kelola Member')]</value>
+      <webElementGuid>e9d13ca7-400d-4c20-8eb0-3b3132fb7e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/following::a[1]</value>
+      <webElementGuid>19c7c74f-f8ec-4b7a-ad0e-5e0e3b96b11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[1]</value>
+      <webElementGuid>fd90b5f1-6059-4e4e-af66-8d46bdb28274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Member'])[1]/preceding::a[1]</value>
+      <webElementGuid>56747df7-ed92-4221-80da-e0ffa4b4f88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas'])[1]/preceding::a[2]</value>
+      <webElementGuid>04c198d2-a63e-40e2-b12f-a28feedd9340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/anggota')]</value>
+      <webElementGuid>c80458e1-0cb7-4138-a073-2404935dc200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div[2]/ul/li/a</value>
+      <webElementGuid>2963e26f-fc09-462e-8505-1074a61086fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/anggota' and (text() = 'Kelola Member' or . = 'Kelola Member')]</value>
+      <webElementGuid>5520c523-50f7-4621-bdb2-55e56e91fccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelola Member']/parent::*</value>
+      <webElementGuid>be16872a-5d1b-4b06-b38a-76a4256a38e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

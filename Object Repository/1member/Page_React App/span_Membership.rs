@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>7efb3721-b542-45b0-a70e-4f73496b7c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-x-3</value>
+      <webElementGuid>43c82258-ae9b-467c-867f-12fa7fcbeb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Membership</value>
+      <webElementGuid>ed3e001d-da0d-4487-91a5-4b83e440e347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim hover:text-white  border-none&quot;]/span[@class=&quot;flex items-center gap-x-3&quot;]</value>
+      <webElementGuid>20d6b52c-0061-44c1-bf9b-0636c7eac979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>f9150763-515e-494d-8264-f379d32076ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>aefc9206-f22c-4f08-aeab-93ae2de74db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -86,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/ul/div[2]/label/span</value>
-      <webElementGuid>97010b98-e64c-4c63-b08a-4ae0d4be85de</webElementGuid>
+      <webElementGuid>e5bf2c07-6857-4e7e-a029-2bcbf1412e36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::span[1]</value>
-      <webElementGuid>e8aad6c5-0f17-4843-8a17-470f0275dd68</webElementGuid>
+      <webElementGuid>be327c8a-167b-4022-83fa-b7540a5d4dc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Trainer'])[1]/following::span[1]</value>
-      <webElementGuid>fdf1c0ce-03ae-472c-91ec-cd4666b703f5</webElementGuid>
+      <webElementGuid>144c34ea-7643-4dec-8c4b-d3591d2ba95d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Member'])[1]/preceding::span[1]</value>
-      <webElementGuid>bff28d73-e1bb-431a-9c88-f90c98dec76f</webElementGuid>
+      <webElementGuid>6dd70989-4006-4455-baf4-872d4ef0aca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +150,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Member'])[1]/preceding::span[1]</value>
-      <webElementGuid>52e79ed5-0c1e-412a-9213-61ffe3bdabb0</webElementGuid>
+      <webElementGuid>dd15763e-cc84-4385-a7d7-f4058ec6d962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Membership']/parent::*</value>
+      <webElementGuid>1c951d3a-1147-4b96-b952-05eeda3cff07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label/span</value>
-      <webElementGuid>b92e463f-bd2d-411a-b066-cbb0a6ca07fb</webElementGuid>
+      <webElementGuid>0483313e-c577-4dea-8430-fb836db8f877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Membership' or . = 'Membership')]</value>
-      <webElementGuid>84e0e445-c49a-4119-ba57-d9e7f04e5913</webElementGuid>
+      <webElementGuid>38cd5af0-a707-44e2-9a5e-8ea2f17b096d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

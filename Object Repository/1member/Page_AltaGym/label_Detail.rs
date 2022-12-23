@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Detail</name>
+   <tag></tag>
+   <elementGuidId>ebee89c4-97b6-433f-bf5e-f459aaa34c4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div[3]/div/table/tbody/tr[4]/td[5]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a8becb78-a2ea-4991-ad73-849293c32b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>my-modal-5</value>
+      <webElementGuid>d67821cd-5f27-47b4-8f24-6ec8c3caa81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnp flex items-center</value>
+      <webElementGuid>abac4c3c-da98-4d98-8e2b-4959ed90cd35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>a1686147-4835-420f-850a-e0dc127c0f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[2]/div[@class=&quot;bg-white my-2 p-2&quot;]/div[1]/table[@class=&quot;table table-compact w-full text-center text-sm&quot;]/tbody[@class=&quot;font-semibold capitalize&quot;]/tr[4]/td[@class=&quot;flex gap-x-2 items-start justify-center&quot;]/label[@class=&quot;btnp flex items-center&quot;]</value>
+      <webElementGuid>0a00764a-93e9-4d45-997f-e40e9ad8c786</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div[3]/div/table/tbody/tr[4]/td[5]/label</value>
+      <webElementGuid>c4d01dad-bc7b-463d-aaf3-e5eb0d8fb6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INACTIVE'])[1]/following::label[1]</value>
+      <webElementGuid>a9ed2c55-6bc2-4400-b418-7a5bf85d7c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platinum'])[2]/following::label[1]</value>
+      <webElementGuid>35262304-a0a1-43ac-921e-c39ca7be0127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[4]/preceding::label[1]</value>
+      <webElementGuid>1b23feab-3ed3-4502-b050-6bb0e8f50dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QEmobile'])[3]/preceding::label[1]</value>
+      <webElementGuid>6263ba2e-6f62-4310-b91d-3c489364066d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[5]/label</value>
+      <webElementGuid>f098dda2-e4ae-4a82-8d49-b7bca3e4956e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>3d72b663-6bd9-4472-9cd3-cce9c98cfa29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

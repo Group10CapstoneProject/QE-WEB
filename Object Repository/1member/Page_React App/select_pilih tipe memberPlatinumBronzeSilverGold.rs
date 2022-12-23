@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
+      <webElementGuid>c42a4bf7-0f82-4df2-ad5b-7c0e9f9a9ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-primary w-44 select-sm max-w-xs</value>
+      <webElementGuid>80f393c2-8461-4bb7-b81a-1c7675f765b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>member_type_id</value>
+      <webElementGuid>9c19b0a9-99b6-45c5-8bf0-ff182049c4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pilih tipe memberPlatinumBronzeSilverGold</value>
+      <webElementGuid>ee1c3088-a6c3-4eb2-8c0c-e6db7b2e2c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box  p-0 overflow-hidden w-1/2 max-w-5xl&quot;]/form[1]/div[@class=&quot;p-3&quot;]/div[@class=&quot;flex w-full px-2&quot;]/div[@class=&quot;w-full&quot;]/select[@class=&quot;select select-primary w-44 select-sm max-w-xs&quot;]</value>
+      <webElementGuid>74645086-ca55-4400-8eba-564d192f0b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
       <webElementGuid>f20a93e5-a4f3-4736-a527-c2aec50276ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +73,7 @@
       <webElementGuid>acb36891-aa05-4e19-999f-ca3afccfd54c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>d2d29345-339e-44d7-b671-f2ecab7317cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='member_type_id']</value>
-      <webElementGuid>87851c18-0b81-4d9b-bb15-7e9bedaf41de</webElementGuid>
+      <webElementGuid>5d5be5a4-368b-411d-a90e-2f6013022aa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[2]/div/form/div/div/div[2]/select</value>
-      <webElementGuid>4b888053-8fa1-4493-acbb-891eb52428a2</webElementGuid>
+      <webElementGuid>129c2c62-b04a-4b6c-b527-f64def070000</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='total'])[1]/following::select[1]</value>
-      <webElementGuid>1d5da2c8-00da-40d2-820c-7fe0798f7d67</webElementGuid>
+      <webElementGuid>66b0cf41-fad8-4e05-b280-a24e8d9ccd64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='duration'])[1]/following::select[1]</value>
-      <webElementGuid>d641b258-6a7c-4f01-87ef-6405a4e1e74e</webElementGuid>
+      <webElementGuid>addf88a5-2d76-45ea-8e4d-fb567962dfab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +214,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::select[1]</value>
-      <webElementGuid>3b2716ea-f4d3-430f-8c88-2d321be8a589</webElementGuid>
+      <webElementGuid>b8a12f5d-2da4-40e3-8943-f3aa17d53895</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::select[1]</value>
-      <webElementGuid>73f59bb5-2866-414b-bad1-7a7badfa97ae</webElementGuid>
+      <webElementGuid>c5cb66a8-1d1d-41fa-9dbb-a848aa1f8e0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>52fd484e-7309-450b-8ba9-e368e2ae0afd</webElementGuid>
+      <webElementGuid>bac467fa-cbc6-4ce5-9899-56c8113383f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'member_type_id' and (text() = 'pilih tipe memberPlatinumBronzeSilverGold' or . = 'pilih tipe memberPlatinumBronzeSilverGold')]</value>
-      <webElementGuid>fc2ffac1-17e9-44ed-a57e-e625a5b26085</webElementGuid>
+      <webElementGuid>7c4414c1-ea11-4cfb-a6c5-ea5573fbf88c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

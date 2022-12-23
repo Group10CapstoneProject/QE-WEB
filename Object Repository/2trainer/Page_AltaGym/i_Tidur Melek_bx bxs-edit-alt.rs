@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tidur Melek_bx bxs-edit-alt</name>
+   <tag></tag>
+   <elementGuidId>92f36f97-daf3-4ed5-984d-42cee274c42f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[3]/div[2]/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>64cbf570-9690-459d-a348-1e54db9bb906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bxs-edit-alt</value>
+      <webElementGuid>24521ac4-a7b9-4734-a5cc-9b656b983c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;grid grid-cols-4&quot;]/div[@class=&quot;w-56  mt-5 relative h-16 border-prim overflow-auto shadow-lg p-1 border bg-white rounded-xl&quot;]/div[@class=&quot;absolute gap-x-2 flex right-0 top-0 px-2&quot;]/span[@class=&quot;cursor-pointer text-prim&quot;]/i[@class=&quot;bx bxs-edit-alt&quot;]</value>
+      <webElementGuid>452f0d03-b75b-4523-83ed-763e7d9859c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]/div[2]/div/span/i</value>
+      <webElementGuid>8a7864a1-a328-4c17-a71c-d32fc189b02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/i</value>
+      <webElementGuid>d1c9d5c9-2f4d-47c8-8bbe-727a3b0ad680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

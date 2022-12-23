@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Trainer</name>
+   <tag></tag>
+   <elementGuidId>290e13a9-bf28-4bf2-a462-b7636ec0f60b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.flex.items-center.gap-x-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>abf98d33-0f38-443a-bf88-dea1a6f94105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-x-3</value>
+      <webElementGuid>3e296f24-7e55-458a-9902-d85a1f719621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trainer</value>
+      <webElementGuid>ad53016e-a71b-4624-94a3-80314c1e9a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim1 hover:text-white  border-none&quot;]/span[@class=&quot;flex items-center gap-x-3&quot;]</value>
+      <webElementGuid>eb1da34d-2f62-455b-8dd3-202bf08874c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/ul/div/label/span</value>
+      <webElementGuid>bddfff81-45d8-4dc7-84dd-b43d4d727030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[1]/following::span[1]</value>
+      <webElementGuid>92ba5692-719b-47b6-912f-6ceb936aea09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[1]</value>
+      <webElementGuid>33f1af5a-6446-4e35-9f16-13fb980a4dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Trainer'])[1]/preceding::span[1]</value>
+      <webElementGuid>8be96a0b-1e31-4589-9c4f-9ed48a1d725e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/preceding::span[1]</value>
+      <webElementGuid>0be12afb-3af1-479b-9cd7-ced176dbc0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trainer']/parent::*</value>
+      <webElementGuid>badd17bb-ae2b-4666-af1d-e8e7dc14eae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>5edb279d-1a6d-4efd-9793-9d26d7924e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Trainer' or . = 'Trainer')]</value>
+      <webElementGuid>5757df3e-16ae-4d5a-9674-ee7c4cbaee90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

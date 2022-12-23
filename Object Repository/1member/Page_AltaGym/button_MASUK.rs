@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_MASUK</name>
+   <tag></tag>
+   <elementGuidId>fdc654b4-54ae-4f41-944d-baa515c9148d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69f6b2ea-8ed9-4acf-b6b6-af7f4d98cb1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-primary w-full h-full py-2 text-white rounded-lg</value>
+      <webElementGuid>70778242-4add-46f7-8328-7133d8f34f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK</value>
+      <webElementGuid>57ad5a14-7f74-4efc-bcfc-a735a3a2bede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/div[@class=&quot;flex justify-center h-full items-center  w-full&quot;]/button[@class=&quot;bg-primary w-full h-full py-2 text-white rounded-lg&quot;]</value>
+      <webElementGuid>e76a5d5f-de7b-4790-9442-60b9c668219b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc146c63-67df-4522-af97-388cfc859b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-primary w-full h-full py-2 text-white rounded-lg</value>
+      <webElementGuid>32daeb37-943c-4da9-801a-040700d651bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK</value>
+      <webElementGuid>e55d8611-aa11-4707-8d90-16a37c7dfacc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/div[@class=&quot;flex justify-center h-full items-center  w-full&quot;]/button[@class=&quot;bg-primary w-full h-full py-2 text-white rounded-lg&quot;]</value>
+      <webElementGuid>2ec89d9c-02c7-4614-8837-74c0d3bfb9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ef6a437-1177-4c1e-a87f-e4c5c6cc5722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-primary w-full h-full py-2 text-white rounded-lg</value>
+      <webElementGuid>d476075c-c200-4ad3-915b-24ba2855082e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MASUK</value>
+      <webElementGuid>8ec108f2-ed6c-4c54-bcc0-edda90f4309f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/div[@class=&quot;flex justify-center h-full items-center  w-full&quot;]/button[@class=&quot;bg-primary w-full h-full py-2 text-white rounded-lg&quot;]</value>
+      <webElementGuid>857bb481-0dcd-4db2-8045-23c5a3a35664</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div[2]/button</value>
+      <webElementGuid>704da3a9-9dc2-4aca-be09-9b981b03dd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat saya'])[1]/following::button[1]</value>
+      <webElementGuid>1046ada6-9736-4f68-84cf-f509807b51c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>ced473b8-702f-4e4b-80a8-dd769ef4bb00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>d6c98e1d-ea5f-4730-9c77-23f6559fd69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' MASUK' or . = ' MASUK')]</value>
+      <webElementGuid>28e16f3b-8345-4680-8c20-af02d55b83db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MASUK']/parent::*</value>
+      <webElementGuid>90455a80-4149-4404-8b41-f3ee56425586</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

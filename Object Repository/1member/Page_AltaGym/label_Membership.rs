@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Membership</name>
+   <tag></tag>
+   <elementGuidId>e309c5b8-f67b-47f7-8e09-0f680e47cad3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>34740f6d-899c-4054-8e35-3ba1773f3c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim1 hover:text-white  border-none </value>
+      <webElementGuid>71952168-5bbb-4216-b205-41c8779b6639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Membership</value>
+      <webElementGuid>dc21a281-3433-48e0-bf33-68d91d3627d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim1 hover:text-white  border-none&quot;]</value>
+      <webElementGuid>d5bfe065-dba9-4f60-9dfc-979f76175784</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/ul/div[2]/label</value>
+      <webElementGuid>56c1248a-ee38-495b-b4aa-a3896536794c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::label[1]</value>
+      <webElementGuid>06fdc16b-1dc2-4903-86db-983880911c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Trainer'])[1]/following::label[1]</value>
+      <webElementGuid>77a9df62-9700-4944-9d9d-797d1326afdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Member'])[1]/preceding::label[1]</value>
+      <webElementGuid>64e3e44c-6bfc-419b-9652-42f960e8c8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div[2]/label</value>
+      <webElementGuid>a910b00f-4b7c-44b6-a2a5-ad6701487f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Membership' or . = 'Membership')]</value>
+      <webElementGuid>76676c07-e344-4133-b3ff-f974f2e9aee7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

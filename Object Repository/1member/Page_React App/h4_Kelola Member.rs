@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
+      <webElementGuid>e675d19a-116d-4f69-b0ae-d2394296f921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-prim</value>
+      <webElementGuid>42976f56-6967-4749-9adb-9426ffe20357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Member</value>
+      <webElementGuid>3debf987-87f1-4d2b-82b1-c725f22b3496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[2]/div[@class=&quot;w-full&quot;]/h4[@class=&quot;font-bold text-prim&quot;]</value>
+      <webElementGuid>1a6c3c8f-0916-44a1-94c6-a76789e9140f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
       <webElementGuid>fd2a8a87-de2b-4a86-977d-7c86c1fe8a7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>b8ed1679-6dd1-4b51-8fc0-85bdc1952a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -278,7 +310,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[2]/div/h4</value>
-      <webElementGuid>b98a4292-beeb-403d-9e12-d2d562a496b2</webElementGuid>
+      <webElementGuid>08fb9aca-a09b-4309-89c1-ab9a51284a33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -286,7 +318,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::h4[1]</value>
-      <webElementGuid>5345ea66-318e-45be-872f-d61771a3012a</webElementGuid>
+      <webElementGuid>6aa43c45-c1e6-400d-99b7-f81221827281</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -294,7 +326,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='superadmin'])[1]/following::h4[1]</value>
-      <webElementGuid>570e5873-e7d2-433c-b7bb-6299981706ee</webElementGuid>
+      <webElementGuid>135dd914-fa74-4d47-af1c-3c5724773adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -302,7 +334,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah member'])[1]/preceding::h4[1]</value>
-      <webElementGuid>145a0e46-9b0f-478d-bcba-cf2ac2fe9f5f</webElementGuid>
+      <webElementGuid>690cef0d-e4ad-439f-9856-d23330f958ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -310,7 +342,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h4[1]</value>
-      <webElementGuid>bb1b7008-654e-41e8-b089-68d852c3899d</webElementGuid>
+      <webElementGuid>3c00a6c6-d023-42b8-832c-fe21c907e8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelola Member']/parent::*</value>
+      <webElementGuid>39c611e9-538b-461f-b2d3-12d7570e1e3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -318,7 +358,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h4</value>
-      <webElementGuid>6250dce4-96ff-4e52-8ed7-276ef6942981</webElementGuid>
+      <webElementGuid>0687bcb3-43aa-49df-8c56-0f793d295d4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -326,6 +366,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'Kelola Member' or . = 'Kelola Member')]</value>
-      <webElementGuid>be905631-cb99-4a31-ae13-d28bd2cdbda7</webElementGuid>
+      <webElementGuid>ebb04ae0-5df3-42f0-a1ad-fce77c0beeb6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

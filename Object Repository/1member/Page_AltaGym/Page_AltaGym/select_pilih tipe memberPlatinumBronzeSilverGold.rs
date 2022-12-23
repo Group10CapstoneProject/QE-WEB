@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_pilih tipe memberPlatinumBronzeSilverGold</name>
+   <tag></tag>
+   <elementGuidId>38c2179b-1c95-44a9-8a78-f532bb820931</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;member_type_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='member_type_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d91320ec-b1c3-4a4f-bcbc-01a8a788288b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-primary w-44 select-sm max-w-xs</value>
+      <webElementGuid>877e2cc7-a126-4b63-9569-a751c062594d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>member_type_id</value>
+      <webElementGuid>5aedf571-770d-4bcf-b155-ff94a4982f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pilih tipe memberPlatinumBronzeSilverGold</value>
+      <webElementGuid>03676659-6b93-46ab-bc3f-bdabf09ce019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box  p-0 overflow-hidden w-1/2 max-w-5xl&quot;]/form[1]/div[@class=&quot;p-3&quot;]/div[@class=&quot;flex w-full px-2&quot;]/div[@class=&quot;w-full&quot;]/select[@class=&quot;select select-primary w-44 select-sm max-w-xs&quot;]</value>
+      <webElementGuid>5554993a-c2c2-4a85-89b9-e3a692d728bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bc9bffbb-b62f-4811-a1cf-96ceecbfcd0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select select-primary w-44 select-sm max-w-xs</value>
+      <webElementGuid>bbfb350b-8c3b-4881-99ef-72989a361881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>member_type_id</value>
+      <webElementGuid>0e8d0836-f259-4d34-8e5f-90432e546b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pilih tipe memberPlatinumBronzeSilverGold</value>
+      <webElementGuid>87257c18-cb7c-422d-aa11-e23b52c7af9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box  p-0 overflow-hidden w-1/2 max-w-5xl&quot;]/form[1]/div[@class=&quot;p-3&quot;]/div[@class=&quot;flex w-full px-2&quot;]/div[@class=&quot;w-full&quot;]/select[@class=&quot;select select-primary w-44 select-sm max-w-xs&quot;]</value>
+      <webElementGuid>e5d98d70-63e6-495e-a15b-2a71f5dd94cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='member_type_id']</value>
+      <webElementGuid>f66553a0-a520-4d12-9709-02eb74561a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/form/div/div/div[2]/select</value>
+      <webElementGuid>0a2c1063-5fc9-4fbf-9b04-6ac5547a421b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='total'])[1]/following::select[1]</value>
+      <webElementGuid>a79be783-6e2e-4549-8b57-4c62c2826a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='duration'])[1]/following::select[1]</value>
+      <webElementGuid>36249189-4b35-4110-b160-6210c82768a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::select[1]</value>
+      <webElementGuid>adfd6bd5-496c-4270-9ec6-4ce69e8e5aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::select[1]</value>
+      <webElementGuid>e026d590-49d4-4057-94c6-1e3c72202489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0eba7463-cb47-4a50-afbd-e7cbf3f0ab45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'member_type_id' and (text() = 'pilih tipe memberPlatinumBronzeSilverGold' or . = 'pilih tipe memberPlatinumBronzeSilverGold')]</value>
+      <webElementGuid>79de68ba-7e85-43f1-a1c3-99c9494ac372</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Trainer</name>
+   <tag></tag>
+   <elementGuidId>9b18d4c6-caa8-4894-b77a-ba47b507248f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b10ef94-4029-4ccd-b5ee-1eaf6740cfe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/trainer</value>
+      <webElementGuid>d566aa52-1ed8-4aef-8894-3efccfa8f4b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Trainer</value>
+      <webElementGuid>0495cfa9-fa34-4259-b932-57e31b1b2c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>4256d007-a07e-45bb-9271-8ac685f5d1b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7261b797-0a78-4a6b-bfd5-a7bce426f57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/trainer</value>
+      <webElementGuid>bb570b96-a8cd-4c73-b50b-29b1ae4ac1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Trainer</value>
+      <webElementGuid>461cd5ba-3ea2-4ad0-a78d-cf3dd898240f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>bcca375e-7252-42de-abe3-7d698daf299c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1734f40d-739d-4e21-bdce-4bb933739d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/trainer</value>
+      <webElementGuid>07666628-6640-4683-8a86-75fa722aae69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Trainer</value>
+      <webElementGuid>57550419-4e16-48e3-8f80-7623391ecbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>eb09cd14-aff1-427d-8414-11078c65e1e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/ul/div/ul/li/a</value>
+      <webElementGuid>45ca5b99-58d2-4816-9f71-56ac28e175d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Trainer')]</value>
+      <webElementGuid>ad010552-db2b-4893-9a43-1886231012ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trainer'])[1]/following::a[1]</value>
+      <webElementGuid>6a239d84-1496-44a2-8a19-74fa36616d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[1]/following::a[1]</value>
+      <webElementGuid>ac0a2845-aab7-46b0-a285-4a1f6e16a2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/preceding::a[1]</value>
+      <webElementGuid>b27155df-843e-48d5-b05b-db1f13e22e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/preceding::a[2]</value>
+      <webElementGuid>65cafacf-684e-492e-ad83-c466ed819f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/trainer')]</value>
+      <webElementGuid>fb6a982f-6d95-4017-b4f8-08ef6ae60c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/ul/li/a</value>
+      <webElementGuid>45a28838-b738-42d2-90b6-d9e124fa36f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/trainer' and (text() = 'Daftar Trainer' or . = 'Daftar Trainer')]</value>
+      <webElementGuid>35167d4b-521f-4cc9-bc09-25eb4e329acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Trainer']/parent::*</value>
+      <webElementGuid>5bfe52e7-1312-4b77-9e43-cafaaaacbd7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/login')
+
+WebUI.setText(findTestObject('Object Repository/1member/Page_React App/input_Email_input input-bordered w-full'), 'superadmin@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/1member/Page_React App/input_Password_input input-bordered w-full'), 
+    'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/button_MASUK'))
+
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/span_Membership'))
+
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/a_Kelola Member'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_React App/h4_Kelola Member'), 'Kelola Member')
+
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/label_Tambah member'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/1member/Page_React App/select_pilih tipe memberPlatinumBronzeSilverGold'), 
+    '2', true)
+
+WebUI.setText(findTestObject('Object Repository/1member/Page_React App/input_total_duration'), '2')
+
+WebUI.setText(findTestObject('Object Repository/1member/Page_React App/input_total_total'), '50000')
+
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/button_Tambah'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/1member/Page_React App/div_Email is required'))
+
+WebUI.closeBrowser()
+

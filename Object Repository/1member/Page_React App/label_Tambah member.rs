@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
+      <webElementGuid>2e54be5a-cd47-41ca-b238-b43cb8334338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>my-modal-5</value>
+      <webElementGuid>c56669bc-eeba-4b72-8fd6-e53865d80d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn text-primary border-primary bg-base hover:bg-primary hover:text-white transition duration-200 ease-in hover:border-base</value>
+      <webElementGuid>16df286f-e379-464a-86ee-8c53d920da2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah member</value>
+      <webElementGuid>ce384484-20c8-43b0-aaa8-aafd3bb1caa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[2]/div[@class=&quot;pt-2 flex justify-between&quot;]/label[@class=&quot;btn text-primary border-primary bg-base hover:bg-primary hover:text-white transition duration-200 ease-in hover:border-base&quot;]</value>
+      <webElementGuid>c71a40c4-7a90-448a-a5ab-02142c40bbc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
       <webElementGuid>09e90fdf-07a1-4a51-b572-2b38e24faeda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -41,7 +81,7 @@
       <webElementGuid>d025e77b-89e2-49fc-8310-c56adec81845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[2]/div[2]/label</value>
-      <webElementGuid>6fc46606-8229-4fc6-a238-66d66b305d09</webElementGuid>
+      <webElementGuid>90d6381e-c7af-4e85-9889-912733a65a8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Member'])[1]/following::label[1]</value>
-      <webElementGuid>c2145b48-9def-4aad-99c3-21451e235479</webElementGuid>
+      <webElementGuid>169b4735-4f27-420d-a6ad-3f4aea717258</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::label[1]</value>
-      <webElementGuid>0051915d-fbe6-4e8e-b148-8000dbc7d630</webElementGuid>
+      <webElementGuid>0cefbfd8-39df-4e47-9829-df0775bb7baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::label[1]</value>
-      <webElementGuid>4382b0b4-0eaf-4258-9b7d-df22cd82c1d1</webElementGuid>
+      <webElementGuid>036cf837-8bd6-4ede-bf49-59cb1f7b5e73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +214,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::label[1]</value>
-      <webElementGuid>0f9ecb4b-7b64-453f-b1f0-18858f00ded2</webElementGuid>
+      <webElementGuid>704ea54d-d7ce-47e6-9327-3bcda0c4fa9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah member']/parent::*</value>
+      <webElementGuid>b5912172-0789-4adf-987b-e6d429340337</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
-      <webElementGuid>8e8f2601-e927-433c-a843-5e06031fda03</webElementGuid>
+      <webElementGuid>2375f3c3-4069-41d1-a3ee-e1e100ec9d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Tambah member' or . = 'Tambah member')]</value>
-      <webElementGuid>5c04c07c-c95d-4b4d-a0c1-3b1c04cf112d</webElementGuid>
+      <webElementGuid>0746a51e-2871-4677-9299-1a7d8309f246</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Detail_bx bx-trash-alt</name>
+   <tag></tag>
+   <elementGuidId>345f1628-9233-4708-b7f9-d7b486ee065f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-trash-alt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>41c7b265-8b07-4bc7-89d0-02c921183504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-trash-alt</value>
+      <webElementGuid>06ca90e8-d5da-4a93-9b29-6a1656238e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[2]/div[@class=&quot;grid grid-cols-4 gap-y-5 gap-x-4 mt-5&quot;]/div[@class=&quot;h-28 relative shadow-lg&quot;]/div[@class=&quot;absolute gap-x-2 flex right-0 top-0 px-2&quot;]/span[@class=&quot;cursor-pointer text-prim&quot;]/i[@class=&quot;bx bx-trash-alt&quot;]</value>
+      <webElementGuid>cb574486-2d2b-4b8c-9789-50cae2b9aba1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[3]/span/i</value>
+      <webElementGuid>f1eacc34-c07f-4512-a756-5eee2d50771e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/following::i[1]</value>
+      <webElementGuid>291abbf6-bee9-45d2-9234-5816157b1402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Trainer'])[1]/following::i[1]</value>
+      <webElementGuid>2ff39af9-62bd-4f99-961a-63143b81aaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[2]/preceding::i[1]</value>
+      <webElementGuid>b7b2126c-8b84-4961-9001-24b2dd264879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/preceding::i[2]</value>
+      <webElementGuid>3f0b9895-0a04-4a07-bb03-59307bc55792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>003251fc-6b6a-4d61-a2bc-5bc25ed83f4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

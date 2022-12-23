@@ -19,24 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/login')
+WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/1member/Page_React App/input_Email_input input-bordered w-full'), 'superadmin@gmail.com')
+WebUI.setText(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/input_Email_input input-bordered w-full'), 
+    'superadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/1member/Page_React App/input_Password_input input-bordered w-full'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/input_Password_input input-bordered w-full'), 
     'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/1member/Page_React App/button_MASUK'))
+WebUI.click(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/button_MASUK'))
 
-WebUI.click(findTestObject('Object Repository/1member/Page_React App/label_Membership'))
+WebUI.click(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/span_Membership'))
 
-WebUI.click(findTestObject('Object Repository/1member/Page_React App/a_Kelola Member'))
+WebUI.click(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/a_Kelola Member'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_React App/h4_Kelola Member'), 'Kelola Member')
+WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/h4_Kelola Member'), 'Kelola Member')
 
-WebUI.click(findTestObject('Object Repository/1member/Page_React App/button_Last page'))
+WebUI.click(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/button_Last page'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_React App/button_Last page'), 'Last page')
+WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_AltaGym/Page_AltaGym/button_Last page'), 'Last page')
 
 WebUI.closeBrowser()
 

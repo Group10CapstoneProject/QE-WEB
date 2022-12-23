@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>d2b2a608-adba-4da2-8310-c8db604b667d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full input-sm border border-primary block py-1 my-1 rounded-none input-primary</value>
+      <webElementGuid>7aee2d07-f6be-43b0-83cb-952bd7d05a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>duration</value>
+      <webElementGuid>eacf9bd7-2a86-406b-b1a7-04a80b9b48ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>5ca2f22f-5a58-4e71-b35d-0e1f7edf8177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box  p-0 overflow-hidden w-1/2 max-w-5xl&quot;]/form[1]/div[@class=&quot;p-3&quot;]/div[@class=&quot;flex w-full px-2&quot;]/div[@class=&quot;w-full&quot;]/input[@class=&quot;w-full input-sm border border-primary block py-1 my-1 rounded-none input-primary&quot;]</value>
+      <webElementGuid>71cb92d6-dcb5-4edf-a646-76129f6344b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
       <webElementGuid>59687ace-5da3-4e12-8a1a-6920a089a421</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +73,7 @@
       <webElementGuid>c25a9d5e-6e48-439e-ade9-0f029f7e2a65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>e0d9b63f-89e7-4900-a090-94f69ffe06a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='duration']</value>
-      <webElementGuid>7f81eb06-79e6-4ea3-8c99-daa20406850a</webElementGuid>
+      <webElementGuid>12989a80-394f-43ef-91ce-132e00cd1220</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[2]/div/form/div/div/div[2]/input[2]</value>
-      <webElementGuid>5129cd50-6400-45db-bbf5-372516022892</webElementGuid>
+      <webElementGuid>1f6db1d8-78a2-4c55-b49e-c96794a0666e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input[2]</value>
+      <webElementGuid>480fd453-e3fb-4f69-adec-243af4e7b98e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'duration' and @type = 'number']</value>
+      <webElementGuid>17200a84-4423-4ef4-9ada-833de9571e68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,21 +239,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::input[2]</value>
       <webElementGuid>15fc6375-089f-4362-b061-9936bc4c15f2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/input[2]</value>
-      <webElementGuid>a5f32f45-bdbb-4de8-af02-e4c29375d36f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@name = 'duration' and @type = 'number']</value>
-      <webElementGuid>2ee106ad-3e93-4faa-a2b4-f00a91fd3e64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

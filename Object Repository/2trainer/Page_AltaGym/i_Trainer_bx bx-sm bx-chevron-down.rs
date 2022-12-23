@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Trainer_bx bx-sm bx-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>cf017a7e-beb6-457d-a605-f5b6f2a654c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>daea4da1-30b2-4e99-851a-c8ba48292e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-sm bx-chevron-down </value>
+      <webElementGuid>360871e3-c81d-4a5d-a0b4-b2b03c785c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim1 hover:text-white  border-none&quot;]/i[@class=&quot;bx bx-sm bx-chevron-down&quot;]</value>
+      <webElementGuid>233203c2-a2c2-46ec-adda-ea5ee9753f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e5894174-4766-4f24-a3aa-1368757506aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-sm bx-chevron-down </value>
+      <webElementGuid>f0e21938-4eff-49d7-b691-45d745483daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim1 hover:text-white  border-none&quot;]/i[@class=&quot;bx bx-sm bx-chevron-down&quot;]</value>
+      <webElementGuid>fa1cbb4e-dcb5-4c36-a837-f52a90ed6434</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/ul/div/label/i</value>
+      <webElementGuid>7b8be52f-0b70-4306-b120-76bbcca3f557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+      <webElementGuid>40585e53-a449-4392-aa73-ddf3f18c3fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trainer'])[1]/following::i[1]</value>
+      <webElementGuid>dddcde60-2ebe-42b6-a0f0-328af833a584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran'])[1]/following::i[2]</value>
+      <webElementGuid>62c4ffd1-4466-4105-bda7-b8284580cbef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Trainer'])[1]/preceding::i[1]</value>
+      <webElementGuid>c735dfe9-d98e-45db-98c7-87264486b6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/preceding::i[1]</value>
+      <webElementGuid>efe6a5ad-a088-4069-aff9-e9fb046858d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

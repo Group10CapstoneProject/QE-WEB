@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>79fb9675-6263-4897-8415-8a65a53a0622</webElementGuid>
+      <webElementGuid>38d513d8-63bc-4e16-bb30-2fbf91a8b6e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,42 @@
       <name>href</name>
       <type>Main</type>
       <value>/anggota</value>
-      <webElementGuid>afc5dc93-fa6d-4b32-ae46-60af363b0409</webElementGuid>
+      <webElementGuid>f9692286-fadd-40a4-8310-cb9d46dd0734</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Member</value>
+      <webElementGuid>1f760608-5fc6-481b-93b8-86abd21ed309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;font-semibold   w-52&quot;]/li[@class=&quot;py-0&quot;]/a[1]</value>
+      <webElementGuid>ae37b093-c23f-48bb-b6a3-78876aa41a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>79fb9675-6263-4897-8415-8a65a53a0622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/anggota</value>
+      <webElementGuid>afc5dc93-fa6d-4b32-ae46-60af363b0409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -310,7 +342,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/ul/div[2]/ul/li/a</value>
-      <webElementGuid>6ef752e3-9c7a-4cf2-8d9c-2c04d7191ecb</webElementGuid>
+      <webElementGuid>8931723d-e822-4b19-b998-8b4a0069a6a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -318,7 +350,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Kelola Member')]</value>
-      <webElementGuid>6c3332db-1fc4-4273-803a-64b991b55b00</webElementGuid>
+      <webElementGuid>959c8589-c436-47f3-9a4d-3e7a2662083d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -326,7 +358,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/following::a[1]</value>
-      <webElementGuid>0d361fdd-9abe-43c4-bc44-24fe2cf14c40</webElementGuid>
+      <webElementGuid>a88851f9-1d82-4641-8bda-415af89d91bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -334,7 +366,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[1]</value>
-      <webElementGuid>d0ff8b42-1594-4696-b843-5b4844ddee1d</webElementGuid>
+      <webElementGuid>879100a2-8e3a-479c-8bd0-b92a75cdda1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -342,7 +374,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Member'])[1]/preceding::a[1]</value>
-      <webElementGuid>1f54f635-f1d0-495c-be43-65709c2b698a</webElementGuid>
+      <webElementGuid>f7fff44e-d872-431c-bbfc-b767878b2ee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,7 +382,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelas'])[1]/preceding::a[2]</value>
-      <webElementGuid>2eead0da-d9c5-46a8-94e5-eada1f0e69e8</webElementGuid>
+      <webElementGuid>13bff224-b28a-4588-a952-6534884744b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelola Member']/parent::*</value>
+      <webElementGuid>9ae64236-ee59-4bc0-8bde-49427a0e087c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -358,7 +398,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/anggota')]</value>
-      <webElementGuid>88882ebf-6bed-48da-90be-bf7b69275415</webElementGuid>
+      <webElementGuid>37b9143a-7ba6-40da-8e07-8583c238c110</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -366,7 +406,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul/div[2]/ul/li/a</value>
-      <webElementGuid>254c26d0-adba-473e-9cb3-cef4e7266c55</webElementGuid>
+      <webElementGuid>7c5bff13-8f02-4aed-901d-d0fd0eed7b32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -374,6 +414,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/anggota' and (text() = 'Kelola Member' or . = 'Kelola Member')]</value>
-      <webElementGuid>aac6122a-a55c-45df-a3b4-70727b010896</webElementGuid>
+      <webElementGuid>b89eba0f-9d53-41bb-b73b-c40e9e025ee9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
