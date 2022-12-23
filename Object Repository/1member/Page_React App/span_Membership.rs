@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h1_DAFTAR BOOKING CLASS</name>
+   <name>span_Membership</name>
    <tag></tag>
-   <elementGuidId>71e6e439-8f75-43d5-8055-250b4f985370</elementGuidId>
+   <elementGuidId>92ab6947-c9c3-437f-93c8-4f55c6ff3015</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h1.font-bold.text-2xl.text-info</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/h1</value>
+         <value>//div[@id='root']/div/div/div[2]/ul/div[2]/label/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,119 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>787d3159-264f-44f5-b996-648f21af90df</webElementGuid>
+      <value>span</value>
+      <webElementGuid>f9150763-515e-494d-8264-f379d32076ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-bold text-2xl text-info</value>
-      <webElementGuid>c2f508c3-cfff-4e78-8784-de12eee31d0a</webElementGuid>
+      <value>flex items-center gap-x-3</value>
+      <webElementGuid>aefc9206-f22c-4f08-aeab-93ae2de74db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>DAFTAR BOOKING CLASS</value>
-      <webElementGuid>376ad046-ff6e-4682-8e32-a6d997ca4912</webElementGuid>
+      <value>Membership</value>
+      <webElementGuid>96fbf8b3-a8cb-44b1-b702-a8bbe3305fef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/h1[@class=&quot;font-bold text-2xl text-info&quot;]</value>
-      <webElementGuid>6a350bf3-4cf3-41e4-88c9-7d3d504390cd</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim hover:text-white  border-none&quot;]/span[@class=&quot;flex items-center gap-x-3&quot;]</value>
+      <webElementGuid>997019c3-e8be-4200-acfa-ec6520239df8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>5ae586dd-4acb-492c-ba51-5345d26555e5</webElementGuid>
+      <value>span</value>
+      <webElementGuid>1238aa05-9dc7-4b69-bf87-0fbfa54f07a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-bold text-2xl text-info</value>
-      <webElementGuid>0efc82c2-673d-4089-9a33-f416be7587c2</webElementGuid>
+      <value>flex items-center gap-x-3</value>
+      <webElementGuid>87622d09-e251-48f3-a83c-824caf777aee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>DAFTAR BOOKING CLASS</value>
-      <webElementGuid>2b9a1ed9-4ea2-4969-8468-2389d9447c10</webElementGuid>
+      <value>Membership</value>
+      <webElementGuid>b8575123-f07c-4891-960e-d0dd50cce5c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/h1[@class=&quot;font-bold text-2xl text-info&quot;]</value>
-      <webElementGuid>246125f4-4402-476e-96ed-2b8d12bf9b2a</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/label[@class=&quot;bg-transparent  text-prim  w-full  justify-between font-bold btn  hover:bg-prim hover:text-white  border-none&quot;]/span[@class=&quot;flex items-center gap-x-3&quot;]</value>
+      <webElementGuid>bdff99d2-a7ed-409c-82c6-a71be2299130</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div/h1</value>
-      <webElementGuid>c89d661b-4a58-4eed-bb13-93761d135e2d</webElementGuid>
+      <value>//div[@id='root']/div/div/div[2]/ul/div[2]/label/span</value>
+      <webElementGuid>97010b98-e64c-4c63-b08a-4ae0d4be85de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::h1[1]</value>
-      <webElementGuid>7eec8f11-bd02-4c35-8aa9-564d5a17e6f7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::span[1]</value>
+      <webElementGuid>e8aad6c5-0f17-4843-8a17-470f0275dd68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='superadmin'])[1]/following::h1[1]</value>
-      <webElementGuid>514353a9-564a-482e-98b4-b808ce5a8972</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Trainer'])[1]/following::span[1]</value>
+      <webElementGuid>fdf1c0ce-03ae-472c-91ec-cd4666b703f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h1[1]</value>
-      <webElementGuid>a321e78d-8ffb-46b1-8c40-51318ab1554f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Member'])[1]/preceding::span[1]</value>
+      <webElementGuid>bff28d73-e1bb-431a-9c88-f90c98dec76f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::h1[1]</value>
-      <webElementGuid>5f95489e-0fe0-4c24-8d87-676dbaa376f7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Member'])[1]/preceding::span[1]</value>
+      <webElementGuid>52e79ed5-0c1e-412a-9213-61ffe3bdabb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1</value>
-      <webElementGuid>07ba6012-468f-4dd2-9012-1b82f06318f8</webElementGuid>
+      <value>//div[2]/label/span</value>
+      <webElementGuid>b92e463f-bd2d-411a-b066-cbb0a6ca07fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = 'DAFTAR BOOKING CLASS' or . = 'DAFTAR BOOKING CLASS')]</value>
-      <webElementGuid>d58bd0b5-9003-42f7-a219-76f2316b5ed5</webElementGuid>
+      <value>//span[(text() = 'Membership' or . = 'Membership')]</value>
+      <webElementGuid>84e0e445-c49a-4119-ba57-d9e7f04e5913</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

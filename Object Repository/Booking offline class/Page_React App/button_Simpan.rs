@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h1_DAFTAR BOOKING CLASS</name>
+   <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>71e6e439-8f75-43d5-8055-250b4f985370</elementGuidId>
+   <elementGuidId>bdbe03cb-ba8b-4f27-a8f4-96a8bdabfd04</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h1.font-bold.text-2xl.text-info</value>
+         <value>button.h-8.px-3.bg-prim.btn.border-none.min-h-0.text-white</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/h1</value>
+         <value>//div[@id='root']/div/div/div/div/form/div[3]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,119 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>787d3159-264f-44f5-b996-648f21af90df</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b1b674e0-3e60-4486-a33b-f9ad34099cc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-bold text-2xl text-info</value>
-      <webElementGuid>c2f508c3-cfff-4e78-8784-de12eee31d0a</webElementGuid>
+      <value>h-8 px-3 bg-prim btn border-none min-h-0 text-white</value>
+      <webElementGuid>77d05912-3491-4a19-ba8e-e075b8b9d85e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>DAFTAR BOOKING CLASS</value>
-      <webElementGuid>376ad046-ff6e-4682-8e32-a6d997ca4912</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>3e50dd8b-d3e2-453e-b008-e48586a7ca5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/h1[@class=&quot;font-bold text-2xl text-info&quot;]</value>
-      <webElementGuid>6a350bf3-4cf3-41e4-88c9-7d3d504390cd</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/form[@class=&quot;flex flex-col  px-6  w-full&quot;]/div[@class=&quot;flex gap-x-2&quot;]/button[@class=&quot;h-8 px-3 bg-prim btn border-none min-h-0 text-white&quot;]</value>
+      <webElementGuid>271589c3-8693-4805-b7ed-953926301d3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>5ae586dd-4acb-492c-ba51-5345d26555e5</webElementGuid>
+      <value>button</value>
+      <webElementGuid>2f56a4cb-d0d2-47fe-b443-d486118e61fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-bold text-2xl text-info</value>
-      <webElementGuid>0efc82c2-673d-4089-9a33-f416be7587c2</webElementGuid>
+      <value>h-8 px-3 bg-prim btn border-none min-h-0 text-white</value>
+      <webElementGuid>aa599d33-3b9c-47df-8ea2-cc412627ed97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>DAFTAR BOOKING CLASS</value>
-      <webElementGuid>2b9a1ed9-4ea2-4969-8468-2389d9447c10</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>46651c76-acf6-43e9-a49d-bd094ca99d13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/h1[@class=&quot;font-bold text-2xl text-info&quot;]</value>
-      <webElementGuid>246125f4-4402-476e-96ed-2b8d12bf9b2a</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/form[@class=&quot;flex flex-col  px-6  w-full&quot;]/div[@class=&quot;flex gap-x-2&quot;]/button[@class=&quot;h-8 px-3 bg-prim btn border-none min-h-0 text-white&quot;]</value>
+      <webElementGuid>7c4f0470-e1b9-4fb0-b05a-650e1e835503</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div/h1</value>
-      <webElementGuid>c89d661b-4a58-4eed-bb13-93761d135e2d</webElementGuid>
+      <value>//div[@id='root']/div/div/div/div/form/div[3]/button</value>
+      <webElementGuid>5d9c8722-76db-4aa1-b139-8b467aac46bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::h1[1]</value>
-      <webElementGuid>7eec8f11-bd02-4c35-8aa9-564d5a17e6f7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Membership'])[1]/following::button[1]</value>
+      <webElementGuid>5f98e658-504b-4e89-b084-9c7253a2049c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='superadmin'])[1]/following::h1[1]</value>
-      <webElementGuid>514353a9-564a-482e-98b4-b808ce5a8972</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukti pembayaran'])[1]/following::button[1]</value>
+      <webElementGuid>a798a3b9-be21-49e8-b951-1f048903cfb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h1[1]</value>
-      <webElementGuid>a321e78d-8ffb-46b1-8c40-51318ab1554f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::button[1]</value>
+      <webElementGuid>58904850-faf8-4b99-96ab-1b184f4e7a0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::h1[1]</value>
-      <webElementGuid>5f95489e-0fe0-4c24-8d87-676dbaa376f7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::button[1]</value>
+      <webElementGuid>43dd0a51-4f80-4b3f-a166-b7e953cc45a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1</value>
-      <webElementGuid>07ba6012-468f-4dd2-9012-1b82f06318f8</webElementGuid>
+      <value>//form/div[3]/button</value>
+      <webElementGuid>3b6a5f09-7b89-4c20-ae57-ff2288e6f80a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = 'DAFTAR BOOKING CLASS' or . = 'DAFTAR BOOKING CLASS')]</value>
-      <webElementGuid>d58bd0b5-9003-42f7-a219-76f2316b5ed5</webElementGuid>
+      <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>dad57c4e-7b1a-4412-8888-d511ee835899</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

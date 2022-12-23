@@ -6,12 +6,12 @@
    <elementGuidId>cf4cb1bc-443f-403a-a0eb-2c0ab62371f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div[2]/ul/div[5]/ul/li[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/ul/div[5]/ul/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2fcd825e-2244-4fcb-ab1b-ed0957d810a1</webElementGuid>
+      <webElementGuid>0611db6b-f1fc-4bd0-9ff9-c08b28210289</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,42 @@
       <name>href</name>
       <type>Main</type>
       <value>/bookingoffline</value>
-      <webElementGuid>30c89404-3297-46fb-a3f9-eb3a802cd962</webElementGuid>
+      <webElementGuid>5e466d0e-bb1d-43d5-9366-c1c73d1d9e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Offline</value>
+      <webElementGuid>d5b035a8-5970-434d-97d9-619048e6984c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-side border&quot;]/ul[@class=&quot;menu p-4 w-60 text-prim&quot;]/div[@class=&quot;dropdown dropdown-top- dropdown-end&quot;]/ul[@class=&quot;w-52&quot;]/li[@class=&quot;text-prim2 hover:bg-primary hover:text-base rounded-lg&quot;]/a[1]</value>
+      <webElementGuid>957f0489-6942-44a5-9e58-de5bbf7ca74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2fcd825e-2244-4fcb-ab1b-ed0957d810a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bookingoffline</value>
+      <webElementGuid>30c89404-3297-46fb-a3f9-eb3a802cd962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +86,63 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/ul/div[5]/ul/li[2]/a</value>
-      <webElementGuid>8c45585c-9d37-48f6-9927-4fb3d529c9fd</webElementGuid>
+      <webElementGuid>391811c4-4cd5-4ab2-9ab1-26f57fe25f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Offline')])[2]</value>
+      <webElementGuid>b0a2088d-422e-40f0-9fc0-d85f4b3cd319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[2]/following::a[1]</value>
+      <webElementGuid>189bc356-81d7-4bdd-900e-7e434c112fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking'])[1]/following::a[2]</value>
+      <webElementGuid>bbf348b2-5962-4fda-a25a-107b06d41dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::a[1]</value>
+      <webElementGuid>93833c45-04a6-4ecc-a9f0-e60cfb3211b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bookingoffline')]</value>
+      <webElementGuid>16d244eb-b643-4389-b46a-70e79764ffe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/ul/li[2]/a</value>
+      <webElementGuid>8dfe3cb8-5a14-44d1-b303-7ddcfb5d4559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bookingoffline' and (text() = 'Offline' or . = 'Offline')]</value>
+      <webElementGuid>bb5b6c3c-1ec7-482b-8a70-369f760b5f92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,53 +151,5 @@
       <type>Main</type>
       <value>//a[contains(text(),'Offline')]</value>
       <webElementGuid>430be2bd-d235-4c15-9f2a-96ca7b191715</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[2]/following::a[1]</value>
-      <webElementGuid>28daffa1-bd5c-4b4c-a171-d7c8fa94ab03</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking'])[1]/following::a[2]</value>
-      <webElementGuid>6ac594bf-aa12-4a98-96b5-5c9644c45439</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::a[1]</value>
-      <webElementGuid>1b461725-09f1-49d4-8953-60e00db1036a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/bookingoffline')]</value>
-      <webElementGuid>9149576d-1bd1-4802-808c-879d86369a8e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/ul/li[2]/a</value>
-      <webElementGuid>1b827351-34f4-474c-a5ea-22db865ab1fc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/bookingoffline' and (text() = 'Offline' or . = 'Offline')]</value>
-      <webElementGuid>91f019a5-8a44-4181-8b77-3d201a0f56ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

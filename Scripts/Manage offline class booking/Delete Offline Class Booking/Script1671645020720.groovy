@@ -21,26 +21,26 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/input_Email_input input-bordered w-full'), 
+WebUI.setText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Email_input input-bordered w-full'), 
     'superadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/input_Password_input input-bordered w-full'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Password_input input-bordered w-full'), 
     'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/button_MASUK'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_MASUK'))
 
-WebUI.click(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/label_Booking'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/span_Booking'))
 
-WebUI.click(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/a_Offline'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/a_Offline'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/h1_DAFTAR BOOKING CLASS'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Booking offline class/Page_React App/h1_DAFTAR BOOKING CLASS'), 
     'DAFTAR BOOKING CLASS')
 
-WebUI.click(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/button_Detail_btnd'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/i_Detail_bx bx-trash bx-sm text-white'))
 
-WebUI.click(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/button_Ya'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Ya'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Delete Offline Class Booking/Page_React App/div_success delete offline class booking'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Booking offline class/Page_React App/div_success delete offline class booking'))
 
 WebUI.closeBrowser()
 

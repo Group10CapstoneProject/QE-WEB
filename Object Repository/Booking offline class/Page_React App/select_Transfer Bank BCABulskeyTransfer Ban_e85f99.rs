@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Transfer Bank BCABulskeyTransfer Ban_e85f99</name>
+   <tag></tag>
+   <elementGuidId>759a524a-7cc3-42ad-b65d-d7e56377a9f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;payment_method_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='payment_method_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1c877dbb-fc30-49eb-9425-6c68f33b05ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>payment_method_id</value>
+      <webElementGuid>19a44a95-dbef-435b-8c9d-d679a0bf716a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Bank BCABulskeyTransfer Bank DKITransfer Bank BRIBank BNI</value>
+      <webElementGuid>9956ee06-6e06-4429-8aa4-8d6dee0b1c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-box  p-0 overflow-hidden w-1/2&quot;]/div[@class=&quot;w-full p-3 bg-base2 flex&quot;]/div[@class=&quot;w-full relative&quot;]/form[@class=&quot;flex flex-col gap-y-2&quot;]/div[@class=&quot;flex gap-x-4&quot;]/select[1]</value>
+      <webElementGuid>912a5bc2-0a22-402e-a49b-d7882a351e69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='payment_method_id']</value>
+      <webElementGuid>49635d0b-b7e9-45d4-8f67-59d4f07af032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/form/div[2]/select</value>
+      <webElementGuid>cdaf642f-d78d-4c1a-843b-3086777ebec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih metode Pembayaran :'])[1]/following::select[1]</value>
+      <webElementGuid>e13d2fea-fc05-48b5-addc-ff45589a8b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Kelas Offline :'])[1]/following::select[2]</value>
+      <webElementGuid>a1091946-d468-4347-aaaf-61d5b394e318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Harga'])[1]/preceding::select[1]</value>
+      <webElementGuid>18413385-31f0-4ba7-af59-91e95e6908a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::select[1]</value>
+      <webElementGuid>6f6e241a-a99d-4de9-b49d-cd52220e1f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>44cd0aea-374a-47c8-a078-32d5c90abb41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'payment_method_id' and (text() = 'Transfer Bank BCABulskeyTransfer Bank DKITransfer Bank BRIBank BNI' or . = 'Transfer Bank BCABulskeyTransfer Bank DKITransfer Bank BRIBank BNI')]</value>
+      <webElementGuid>d7150863-6a60-4c3b-b324-1a735f870156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

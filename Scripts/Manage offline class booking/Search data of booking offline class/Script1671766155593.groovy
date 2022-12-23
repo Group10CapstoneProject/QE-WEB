@@ -21,26 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Email_input input-bordered w-full'), 
+WebUI.setText(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/input_Email_input input-bordered w-full'), 
     'superadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Password_input input-bordered w-full'), 
+WebUI.click(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/div_Ingat saya'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/input_Password_input input-bordered w-full'), 
     'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_MASUK'))
+WebUI.click(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/button_MASUK'))
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/i_Booking_bx bx-sm bx-chevron-down'))
+WebUI.click(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/label_Booking'))
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/a_Offline'))
+WebUI.click(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/a_Offline'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Booking offline class/Page_React App/h1_DAFTAR BOOKING CLASS'), 
+WebUI.verifyElementText(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/h1_DAFTAR BOOKING CLASS'), 
     'DAFTAR BOOKING CLASS')
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Detail'))
-
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Simpan'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Booking offline class/Page_React App/div_Status is required'))
+WebUI.setText(findTestObject('Object Repository/See Details Booking Offline Class/Page_React App/input_DAFTAR BOOKING CLASS_input input-bord_07d325'), 
+    'QE')
 
 WebUI.closeBrowser()
 

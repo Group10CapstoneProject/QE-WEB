@@ -19,39 +19,33 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/login')
+WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Edit offline class bookings/Page_React App/input_Email_input input-bordered w-full'), 
+WebUI.setText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Email_input input-bordered w-full'), 
     'superadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Edit offline class bookings/Page_React App/input_Password_input input-bordered w-full'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Password_input input-bordered w-full'), 
     'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Edit offline class bookings/Page_React App/button_MASUK'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_MASUK'))
 
-WebUI.click(findTestObject('Object Repository/Edit offline class bookings/Page_React App/i_Booking_bx bx-sm bx-chevron-down'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/label_Booking'))
 
-WebUI.click(findTestObject('Object Repository/Edit offline class bookings/Page_React App/a_Offline'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/a_Offline'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Edit offline class bookings/Page_React App/h1_DAFTAR BOOKING CLASS'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Booking offline class/Page_React App/h1_DAFTAR BOOKING CLASS'), 
     'DAFTAR BOOKING CLASS')
 
-WebUI.click(findTestObject('Object Repository/Edit offline class bookings/Page_React App/button_Detail'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Detail'))
 
-WebUI.click(findTestObject('Object Repository/Edit offline class bookings/Page_React App/button_Edit'))
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Edit'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Edit offline class bookings/Page_React App/select_sassasasassasnotifZumba gymZumba gym_059042'), 
-    '139', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Edit offline class bookings/Page_React App/select_Transfer Bank BCABulskeyTransfer Ban_e85f99'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Booking offline class/Page_React App/select_Transfer Bank BCABulskeyTransfer Ban_e85f99'), 
     '3', true)
 
-WebUI.setText(findTestObject('Object Repository/Edit offline class bookings/Page_React App/input_Total Harga_input-sm'), 
-    '200000')
+WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Edit offline class bookings/Page_React App/button_Submit'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Edit offline class bookings/Page_React App/div_success update offline class booking'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Booking offline class/Page_React App/div_success update offline class booking'))
 
 WebUI.closeBrowser()
 

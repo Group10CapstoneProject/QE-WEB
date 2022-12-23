@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Notifikasi8superadminlogout</name>
+   <tag></tag>
+   <elementGuidId>e6fff4ab-92d2-40fd-84b3-1e59b85f63b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>05495f3c-6c84-4253-a0eb-edb64c7b7b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full sticky h-[60px] z-50  bg-base/60 border px-4 py-2  flex items-center justify-end</value>
+      <webElementGuid>4df95185-21f3-4e8e-8060-248e66b63b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notifikasi8superadminlogout</value>
+      <webElementGuid>1d541181-3908-4919-bf16-0c5aee4584b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/nav[@class=&quot;w-full sticky h-[60px] z-50  bg-base/60 border px-4 py-2  flex items-center justify-end&quot;]</value>
+      <webElementGuid>ca82ad6b-4c06-4094-a184-99de9de0b8fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav</value>
+      <webElementGuid>bbc9eef1-3204-4c12-9c5f-3f70a4ede7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>6bb3af8a-d821-46fd-9720-f56e6a9358d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Notifikasi8superadminlogout' or . = 'Notifikasi8superadminlogout')]</value>
+      <webElementGuid>99bcc5a0-9647-473f-b5d5-83ae0303577b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

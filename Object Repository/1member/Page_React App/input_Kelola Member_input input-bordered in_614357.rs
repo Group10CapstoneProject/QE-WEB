@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_input input-bordered w-full</name>
+   <name>input_Kelola Member_input input-bordered in_614357</name>
    <tag></tag>
-   <elementGuidId>adc50cb4-0da3-4205-a183-aa1555287d8f</elementGuidId>
+   <elementGuidId>7c191c30-db6d-4576-b684-59a5ff1c5dfb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.input.input-bordered.w-full</value>
+         <value>input.input.input-bordered.input-black.w-56.max-w-xs</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='email']</value>
+         <value>//input[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9a57d7e-5e45-4a72-837c-2f55e4b98d06</webElementGuid>
+      <webElementGuid>327ef700-7c61-4129-8fb7-2370c269eab3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>623887ab-ecdf-4fc7-affb-87eea6277812</webElementGuid>
+      <value>text</value>
+      <webElementGuid>eee7683f-9a56-4a9d-930f-f22454f5abf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>alta@gmail.com</value>
-      <webElementGuid>bc1e4510-d8a4-4e97-8d8f-06b373a8d9a7</webElementGuid>
+      <value>Cari Member .....</value>
+      <webElementGuid>5ab74d12-fa0b-46ae-a98b-d14c2d68c98a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input input-bordered w-full</value>
-      <webElementGuid>b786b9fb-66e9-4ddb-b4de-5d5c6c589820</webElementGuid>
+      <value>input input-bordered input-black w-56 max-w-xs</value>
+      <webElementGuid>8ba28d39-d280-4580-9630-81480d1518c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/input[@class=&quot;input input-bordered w-full&quot;]</value>
-      <webElementGuid>1aa84cda-de61-46e7-9615-61cf893eb6f0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[2]/div[@class=&quot;pt-2 flex justify-between&quot;]/input[@class=&quot;input input-bordered input-black w-56 max-w-xs&quot;]</value>
+      <webElementGuid>b5bfa043-e9a7-4b5d-addd-46b80ea8f758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,102 +62,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dab4017d-351f-4aea-a1b7-381df9e32306</webElementGuid>
+      <webElementGuid>2532d7b1-ea3f-4885-a7b9-f3f732f42f23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>3f79f628-16be-4737-aa0f-a1588518a690</webElementGuid>
+      <value>text</value>
+      <webElementGuid>afcf5e09-dcf1-47fe-928b-054d885f0f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>alta@gmail.com</value>
-      <webElementGuid>815ac2a0-a05f-41fb-beeb-e71b67463694</webElementGuid>
+      <value>Cari Member .....</value>
+      <webElementGuid>8be22cbe-d3e0-424c-8819-029bdfdec975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input input-bordered w-full</value>
-      <webElementGuid>4e969d1e-6849-49e0-956d-b128cb0228c0</webElementGuid>
+      <value>input input-bordered input-black w-56 max-w-xs</value>
+      <webElementGuid>55cbba21-7d6a-421a-bb64-d198b770cc46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex   text-black&quot;]/div[@class=&quot;flex w-full h-full items-center&quot;]/div[@class=&quot;flex justify-center   bg-white h-full items-center  w-full&quot;]/div[@class=&quot;w-[55%]&quot;]/form[1]/input[@class=&quot;input input-bordered w-full&quot;]</value>
-      <webElementGuid>bfe36fd2-7991-4d5d-844d-3621089c2392</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;relative&quot;]/div[2]/div[@class=&quot;pt-2 flex justify-between&quot;]/input[@class=&quot;input input-bordered input-black w-56 max-w-xs&quot;]</value>
+      <webElementGuid>21383b66-b863-4f6f-a7d6-4b54bde64bb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='email']</value>
-      <webElementGuid>62a761c4-a834-4d09-8bde-48e3dd063673</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>a1709b71-b20f-42f2-a9d6-2c1225b4fdb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div/form/input</value>
-      <webElementGuid>4edc4355-f1b0-4094-8279-df23de649f58</webElementGuid>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div[2]/input</value>
+      <webElementGuid>d6154510-db40-4a57-a88a-8b7b45042d34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::input[1]</value>
-      <webElementGuid>b71c73f3-e025-4132-8226-32b8e04bf8c3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Member'])[1]/following::input[1]</value>
+      <webElementGuid>5fce7ab7-1a5c-4112-8a31-e778bba30da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk Admin'])[1]/following::input[1]</value>
-      <webElementGuid>27203fea-4545-44cb-bcca-01ecf39ecd10</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::input[1]</value>
+      <webElementGuid>91177d57-7b4d-423b-af44-7fc2c5184ddb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::input[1]</value>
-      <webElementGuid>de56d57e-25a8-45c3-9494-10e89a1f7d08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah member'])[1]/preceding::input[1]</value>
+      <webElementGuid>1ba55283-1bf3-4174-9540-ea52887f68fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat saya'])[1]/preceding::input[3]</value>
-      <webElementGuid>3c583bd9-84bb-481d-b789-e8b157a1be22</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::input[1]</value>
+      <webElementGuid>73f9a04d-ee7d-428c-ab38-4960dc33f451</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>088d0579-d08d-4f81-8638-d3f8049cd6a9</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>ffa7caa5-4144-4ffd-b885-9ceacaed24ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @placeholder = 'alta@gmail.com']</value>
-      <webElementGuid>58c42d2d-315a-4d68-aedb-e378077897f3</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Cari Member .....']</value>
+      <webElementGuid>4c54bf7c-71ad-40c0-806e-98d56e91b4d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

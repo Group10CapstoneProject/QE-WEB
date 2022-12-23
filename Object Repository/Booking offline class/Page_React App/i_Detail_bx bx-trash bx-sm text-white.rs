@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Detail_bx bx-trash bx-sm text-white</name>
+   <tag></tag>
+   <elementGuidId>1012814f-e253-493f-aa89-36cd6379dcb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[3]/table/tbody/tr[2]/td[6]/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7de9297d-5493-4d11-88b0-f50e007d2f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-trash bx-sm text-white</value>
+      <webElementGuid>60707986-b85c-44c0-b26a-abca0ad9c9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;drawer drawer-mobile&quot;]/div[@class=&quot;drawer-content  flex flex-col&quot;]/div[@class=&quot;py-4 px-6&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;table table-compact text-black w-full&quot;]/tbody[1]/tr[@class=&quot;font-semibold&quot;]/td[@class=&quot;flex gap-x-1&quot;]/button[@class=&quot;btnd&quot;]/i[@class=&quot;bx bx-trash bx-sm text-white&quot;]</value>
+      <webElementGuid>c574223a-abde-40e6-8e49-75606c9faf8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]/table/tbody/tr[2]/td[6]/button[2]/i</value>
+      <webElementGuid>edf45e52-d20f-486c-9688-4f3a1b7fe483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[2]/following::i[1]</value>
+      <webElementGuid>ee4d77dc-3e4c-4a91-9baf-33cd1f120b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAITING'])[1]/following::i[1]</value>
+      <webElementGuid>fdb70fa5-e593-46ac-bcc5-4f28052d02e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QEmobile'])[2]/preceding::i[1]</value>
+      <webElementGuid>6387d030-6161-4832-9868-296a8e01d74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QEmobile@gmail.com'])[2]/preceding::i[1]</value>
+      <webElementGuid>eb55a820-8b7f-4c8d-abe8-5a55bfdd486d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/button[2]/i</value>
+      <webElementGuid>9e08ea06-958a-4701-84df-b0b5385dbba6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

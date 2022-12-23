@@ -21,26 +21,22 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://altagym-agillstrz.vercel.app/')
 
-WebUI.setText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Email_input input-bordered w-full'), 
-    'superadmin@gmail.com')
+WebUI.setText(findTestObject('Object Repository/1member/Page_React App/input_Email_input input-bordered w-full'), 'superadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Booking offline class/Page_React App/input_Password_input input-bordered w-full'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/1member/Page_React App/input_Password_input input-bordered w-full'), 
     'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_MASUK'))
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/button_MASUK'))
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/i_Booking_bx bx-sm bx-chevron-down'))
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/label_Membership'))
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/a_Offline'))
+WebUI.click(findTestObject('Object Repository/1member/Page_React App/a_Kelola Member'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Booking offline class/Page_React App/h1_DAFTAR BOOKING CLASS'), 
-    'DAFTAR BOOKING CLASS')
+WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_React App/h4_Kelola Member'), 'Kelola Member')
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Detail'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/1member/Page_React App/select_10203040'), '20', true)
 
-WebUI.click(findTestObject('Object Repository/Booking offline class/Page_React App/button_Simpan'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Booking offline class/Page_React App/div_Status is required'))
+WebUI.verifyElementText(findTestObject('Object Repository/1member/Page_React App/th_20'), '20')
 
 WebUI.closeBrowser()
 
